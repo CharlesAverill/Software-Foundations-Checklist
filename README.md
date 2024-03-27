@@ -607,24 +607,24 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [ ] Exercise: 5 stars, standard, optional (garbage\_collector)
 - - [ ] Subtyping with Records
 - - - [ ] Subtyping
-- - - - [ ] Examples
-- - - - - [ ] Exercise: 2 stars, standard (subtyping\_example\_1)
-- - - - - [ ] Exercise: 1 star, standard (subtyping\_example\_2)
-- - - - - [ ] Exercise: 1 star, standard (subtyping\_example\_3)
-- - - - - [ ] Exercise: 2 stars, standard (subtyping\_example\_4)
+- - - - [x] Examples
+- - - - - [x] Exercise: 2 stars, standard (subtyping\_example\_1)
+- - - - - [x] Exercise: 1 star, standard (subtyping\_example\_2)
+- - - - - [x] Exercise: 1 star, standard (subtyping\_example\_3)
+- - - - - [x] Exercise: 2 stars, standard (subtyping\_example\_4)
 - - - - [ ] Properties of Subtyping
 - - - - - [ ] Field Lookup
 - - - - - - [ ] Exercise: 3 stars, standard (rcd\_types\_match\_informal)
-- - - - - [ ] Inversion Lemmas
-- - - - - - [ ] Exercise: 3 stars, standard, optional (sub\_inversion\_arrow)
-- - - [ ] Typing
-- - - - [ ] Typing Examples
-- - - - - [ ] Exercise: 1 star, standard (typing\_example\_0)
-- - - - - [ ] Exercise: 2 stars, standard (typing\_example\_1)
-- - - - - [ ] Exercise: 2 stars, standard, optional (typing\_example\_2)
-- - - - [ ] Properties of Typing
-- - - - - [ ] Progress
-- - - - - - [ ] Exercise: 3 stars, standard (canonical\_forms\_of\_arrow\_types)
+- - - - - [x] Inversion Lemmas
+- - - - - - [x] Exercise: 3 stars, standard, optional (sub\_inversion\_arrow)
+- - - [x] Typing
+- - - - [x] Typing Examples
+- - - - - [x] Exercise: 1 star, standard (typing\_example\_0)
+- - - - - [x] Exercise: 2 stars, standard (typing\_example\_1)
+- - - - - [x] Exercise: 2 stars, standard, optional (typing\_example\_2)
+- - - - [x] Properties of Typing
+- - - - - [x] Progress
+- - - - - - [x] Exercise: 3 stars, standard (canonical\_forms\_of\_arrow\_types)
 - - [ ] Normalization of STLC
 - - - [ ] Exercise: 2 stars, standard (norm\_fail)
 - - - [ ] Exercise: 5 stars, standard, recommended (norm)
