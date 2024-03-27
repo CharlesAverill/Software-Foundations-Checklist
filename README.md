@@ -10,7 +10,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 
 ## The Checklist
 
-- [ ] Volume 1: Logical Foundations
+- [x] Volume 1: Logical Foundations
 - - [x] Functional Programming in Coq
 - - - [x] Data and Functions
 - - - - [x] Booleans
@@ -32,7 +32,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Exercise: 1 star, standard (negation\_fn\_applied\_twice)
 - - - - [x] Exercise: 3 stars, standard, optional (andb\_eq\_orb)
 - - - - [x] Exercise: 3 stars, standard (binary)
-- - [ ] Proof by Induction
+- - [x] Proof by Induction
 - - - [x] Proof by Induction
 - - - - [x] Exercise: 2 stars, standard, recommended (basic\_induction)
 - - - - [x] Exercise: 2 stars, standard (double\_plus)
@@ -41,13 +41,13 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Formal vs. Informal Proof
 - - - - [x] Exercise: 2 stars, advanced, recommended (plus\_comm\_informal)
 - - - - [x] Exercise: 2 stars, standard, optional (eqb\_refl\_informal)
-- - - [ ] More Exercises
+- - - [x] More Exercises
 - - - - [x] Exercise: 3 stars, standard, recommended (mult\_comm)
 - - - - [x] Exercise: 3 stars, standard, optional (more\_exercises)
 - - - - [x] Exercise: 2 stars, standard, optional (eqb\_refl)
 - - - - [x] Exercise: 2 stars, standard, optional (plus\_swap')
 - - - - [x] Exercise: 3 stars, standard, recommended (binary\_commute)
-- - - - [ ] Exercise: 5 stars, advanced (binary\_inverse)
+- - - - [x] Exercise: 5 stars, advanced (binary\_inverse)
 - - [x] Working with Structured Data
 - - - [x] Pairs of Numbers
 - - - - [x] Exercise: 1 star, standard (snd\_fst\_is\_swap)
@@ -174,7 +174,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 3 stars, standard (excluded\_middle\_irrefutable)
 - - - - - [x] Exercise: 3 stars, advanced (not\_exists\_dist)
 - - - - - [x] Exercise: 5 stars, standard, optional (classical\_axioms)
-- - [ ] Inductively Defined Propositions
+- - [x] Inductively Defined Propositions
 - - - [x] Inductively Defined Propositions
 - - - - [x] Inductive Definition of Evenness
 - - - - - [x] Exercise: 1 star, standard (ev\_double)
@@ -206,23 +206,23 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Case Study: Improving Reflection
 - - - - [x] Exercise: 2 stars, standard, recommended (reflect\_iff)
 - - - - [x] Exercise: 3 stars, standard, recommended (eqbP\_practice)
-- - - [ ] Additional Exercises
+- - - [x] Additional Exercises
 - - - - [x] Exercise: 3 stars, standard, recommended (nostutter\_defn)
 - - - - [x] Exercise: 4 stars, advanced (filter\_challenge)
 - - - - [x] Exercise: 5 stars, advanced, optional (filter\_challenge\_2)
 - - - - [x] Exercise: 4 stars, standard, optional (palindromes)
-- - - - [ ] Exercise: 5 stars, standard, optional (palindrome\_converse)
-- - - - [ ] Exercise: 4 stars, advanced, optional (NoDup)
-- - - - [ ] Exercise: 4 stars, advanced, optional (pigeonhole\_principle)
-- - - - [ ] Extended Exercise: A Verified Regular-Expression Matcher
+- - - - [x] Exercise: 5 stars, standard, optional (palindrome\_converse)
+- - - - [x] Exercise: 4 stars, advanced, optional (NoDup)
+- - - - [x] Exercise: 4 stars, advanced, optional (pigeonhole\_principle)
+- - - - [x] Extended Exercise: A Verified Regular-Expression Matcher
 - - - - - [x] Exercise: 3 stars, standard, optional (app\_ne)
 - - - - - [x] Exercise: 3 stars, standard, optional (star\_ne)
 - - - - - [x] Exercise: 2 stars, standard, optional (match\_eps)
 - - - - - [x] Exercise: 3 stars, standard, optional (match\_eps\_refl)
 - - - - - [x] Exercise: 3 stars, standard, optional (derive)
-- - - - - [ ] Exercise: 4 stars, standard, optional (derive\_corr)
-- - - - - [ ] Exercise: 2 stars, standard, optional (regex\_match)
-- - - - - [ ] Exercise: 3 stars, standard, optional (regex\_refl)
+- - - - - [x] Exercise: 4 stars, standard, optional (derive\_corr)
+- - - - - [x] Exercise: 2 stars, standard, optional (regex\_match)
+- - - - - [x] Exercise: 3 stars, standard, optional (regex\_refl)
 - - [x] Total and Partial Maps
 - - - [x] Total Maps
 - - - - [x] Exercise: 1 star, standard, optional (t\_apply\_empty)
@@ -313,7 +313,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Relational vs. Step-Indexed Evaluation
 - - - - [x] Exercise: 4 stars, standard (ceval\_step\_\_ceval\_inf)
 - - - - [x] Exercise: 3 stars, standard, recommended (ceval\_\_ceval\_step)
-- [ ] Volume 2: Programming Language Foundations
+- [x] Volume 2: Programming Language Foundations
 - - [x] Program Equivalence
 - - - [x] Behavioral Equivalence
 - - - - [x] Simple Examples
@@ -381,7 +381,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Additional Exercises
 - - - - [x] Exercise: 3 stars, standard (hoare\_havoc)
 - - - - [x] Exercise: 4 stars, standard, optional (assert\_vs\_assume)
-- - [ ] Hoare Logic, Part II
+- - [x] Hoare Logic, Part II
 - - - [x] Decorated Programs
 - - - - [x] Example: Simple Conditionals
 - - - - - [x] Exercise: 2 stars, standard (if\_minus\_plus\_reloaded)
@@ -404,14 +404,14 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Exercise: 3 stars, advanced, optional (is\_wp\_formal)
 - - - - [x] Exercise: 2 stars, advanced, optional (hoare\_asgn\_weakest)
 - - - - [x] Exercise: 2 stars, advanced, optional (hoare\_havoc\_weakest)
-- - - [ ] Formal Decorated Programs (Advanced)
-- - - - [ ] Further Exercises
+- - - [x] Formal Decorated Programs (Advanced)
+- - - - [x] Further Exercises
 - - - - - [x] Exercise: 3 stars, advanced (slow\_assignment\_dec)
 - - - - - [x] Exercise: 4 stars, advanced (factorial\_dec)
 - - - - - [x] Exercise: 4 stars, advanced, optional (fib\_eqn)
 - - - - - [x] Exercise: 4 stars, advanced, optional (fib)
-- - - - - [ ] Exercise: 5 stars, advanced, optional (improve\_dcom)
-- - - - - [ ] Exercise: 4 stars, advanced, optional (implement\_dcom)
+- - - - - [x] Exercise: 5 stars, advanced, optional (improve\_dcom)
+- - - - - [x] Exercise: 4 stars, advanced, optional (implement\_dcom)
 - - [x] Hoare Logic as a Logic
 - - - [x] Properties
 - - - - [x] Exercise: 2 stars, standard (hoare\_proof\_sound)
@@ -576,16 +576,16 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, standard (variations)
 - - - [x] Exercise: Adding Products
 - - - - [x] Exercise: 5 stars, standard (products)
-- - [ ] A Typechecker for STLC
-- - - [ ] Exercises
+- - [x] A Typechecker for STLC
+- - - [x] Exercises
 - - - - [x] Exercise: 5 stars, standard (typechecker\_extensions)
 - - - - [x] Exercise: 5 stars, standard, optional (stlc\_step\_function)
-- - - - [ ] Exercise: 5 stars, standard, optional (stlc\_impl)
+- - - - [x] Exercise: 5 stars, standard, optional (stlc\_impl)
 - - [x] Adding Records to STLC
 - - - [x] Formalizing Records
 - - - - [x] Examples
 - - - - - [x] Exercise: 2 stars, standard (examples)
-- - [ ] Typing Mutable References
+- - [x] Typing Mutable References
 - - - [x] Pragmatics
 - - - - [x] Objects
 - - - - - [x] Exercise: 1 star, standard, optional (store\_draw)
@@ -596,235 +596,235 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Typing
 - - - - [x] Store typings
 - - - - - [x] Exercise: 2 stars, standard (cyclic\_store)
-- - - [x] Properties
-- - - - [x] Well-Typed Stores
-- - - - - [x] Exercise: 2 stars, standard (store\_not\_unique)
-- - - - [x] Preservation!
-- - - - - [x] Exercise: 3 stars, standard (preservation\_informal)
-- - - [x] References and Nontermination
-- - - - [x] Exercise: 4 stars, standard (factorial\_ref)
+- - - [ ] Properties
+- - - - [ ] Well-Typed Stores
+- - - - - [ ] Exercise: 2 stars, standard (store\_not\_unique)
+- - - - [ ] Preservation!
+- - - - - [ ] Exercise: 3 stars, standard (preservation\_informal)
+- - - [ ] References and Nontermination
+- - - - [ ] Exercise: 4 stars, standard (factorial\_ref)
 - - - [ ] Additional Exercises
 - - - - [ ] Exercise: 5 stars, standard, optional (garbage\_collector)
-- - [x] Subtyping with Records
-- - - [x] Subtyping
-- - - - [x] Examples
-- - - - - [x] Exercise: 2 stars, standard (subtyping\_example\_1)
-- - - - - [x] Exercise: 1 star, standard (subtyping\_example\_2)
-- - - - - [x] Exercise: 1 star, standard (subtyping\_example\_3)
-- - - - - [x] Exercise: 2 stars, standard (subtyping\_example\_4)
-- - - - [x] Properties of Subtyping
-- - - - - [x] Field Lookup
-- - - - - - [x] Exercise: 3 stars, standard (rcd\_types\_match\_informal)
-- - - - - [x] Inversion Lemmas
-- - - - - - [x] Exercise: 3 stars, standard, optional (sub\_inversion\_arrow)
-- - - [x] Typing
-- - - - [x] Typing Examples
-- - - - - [x] Exercise: 1 star, standard (typing\_example\_0)
-- - - - - [x] Exercise: 2 stars, standard (typing\_example\_1)
-- - - - - [x] Exercise: 2 stars, standard, optional (typing\_example\_2)
-- - - - [x] Properties of Typing
-- - - - - [x] Progress
-- - - - - - [x] Exercise: 3 stars, standard (canonical\_forms\_of\_arrow\_types)
+- - [ ] Subtyping with Records
+- - - [ ] Subtyping
+- - - - [ ] Examples
+- - - - - [ ] Exercise: 2 stars, standard (subtyping\_example\_1)
+- - - - - [ ] Exercise: 1 star, standard (subtyping\_example\_2)
+- - - - - [ ] Exercise: 1 star, standard (subtyping\_example\_3)
+- - - - - [ ] Exercise: 2 stars, standard (subtyping\_example\_4)
+- - - - [ ] Properties of Subtyping
+- - - - - [ ] Field Lookup
+- - - - - - [ ] Exercise: 3 stars, standard (rcd\_types\_match\_informal)
+- - - - - [ ] Inversion Lemmas
+- - - - - - [ ] Exercise: 3 stars, standard, optional (sub\_inversion\_arrow)
+- - - [ ] Typing
+- - - - [ ] Typing Examples
+- - - - - [ ] Exercise: 1 star, standard (typing\_example\_0)
+- - - - - [ ] Exercise: 2 stars, standard (typing\_example\_1)
+- - - - - [ ] Exercise: 2 stars, standard, optional (typing\_example\_2)
+- - - - [ ] Properties of Typing
+- - - - - [ ] Progress
+- - - - - - [ ] Exercise: 3 stars, standard (canonical\_forms\_of\_arrow\_types)
 - - [ ] Normalization of STLC
 - - - [ ] Exercise: 2 stars, standard (norm\_fail)
 - - - [ ] Exercise: 5 stars, standard, recommended (norm)
-- - [x] Tactic Library for Coq: A Gentle Introduction
-- - - [x] Tactics for Advanced Lemma Instantiation
-- - - - [x] Example of Instantiations
-- - [x] Theory and Practice of Automation in Coq Proofs
-- - - [x] Example Proofs using Automation
-- - - - [x] Determinism
-- - - - [x] Preservation for STLC
-- - - - [x] Progress for STLC
-- - - - [x] BigStep and SmallStep
-- - - - [x] Subtyping
+- - [ ] Tactic Library for Coq: A Gentle Introduction
+- - - [ ] Tactics for Advanced Lemma Instantiation
+- - - - [ ] Example of Instantiations
+- - [ ] Theory and Practice of Automation in Coq Proofs
+- - - [ ] Example Proofs using Automation
+- - - - [ ] Determinism
+- - - - [ ] Preservation for STLC
+- - - - [ ] Progress for STLC
+- - - - [ ] BigStep and SmallStep
+- - - - [ ] Subtyping
 - [ ] Volume 3: Verified Functional Algorithms
-- - [x] Basic Techniques for Permutations and Ordering
-- - - [x] Permutations
-- - - - [x] Exercise: 2 stars (Permutation\_properties)
-- - - - [x] Exercise: 3 stars (permut\_example)
-- - - - [x] Exercise: 1 star (not\_a\_permutation)
-- - - [x] Summary: Comparisons and Permutations
-- - - - [x] Exercise: 2 stars (Forall\_perm)
-- - [x] Insertion Sort
-- - - [x] Proof of Correctness
-- - - - [x] Exercise: 3 stars (insert\_perm)
-- - - - [x] Exercise: 3 stars (sort\_perm)
-- - - - [x] Exercise: 4 stars (insert\_sorted)
-- - - - [x] Exercise: 2 stars (sort\_sorted)
-- - - [x] Making Sure the Specification is Right
-- - - - [x] Exercise: 4 stars, optional (sorted\_sorted')
-- - - - [x] Exercise: 3 stars, optional (sorted'\_sorted)
-- - - [x] Proving Correctness from the Alternate Spec
-- - - - [x] Exercise: 3 stars, optional (Forall\_nth)
-- - - - [x] Exercise: 4 stars, optional (insert\_sorted')
-- - - - [x] Exercise: 4 stars, optional (sort\_sorted')
-- - [x] Insertion Sort With Multisets
-- - - [x] Exercise: 1 star (union\_assoc)
-- - - [x] Exercise: 1 star (union\_comm)
-- - - [x] Correctness
-- - - - [x] Exercise: 3 stars (insert\_contents)
-- - - - [x] Exercise: 3 stars (sort\_contents)
-- - - - [x] Exercise: 1 star (permutations\_vs\_multiset)
-- - - [x] Permutations and Multisets
-- - - - [x] Exercise: 3 stars (perm\_contents)
-- - - - [x] Exercise: 3 stars (delete\_contents)
-- - - - [x] Exercise: 2 stars (contents\_perm\_aux)
-- - - - [x] Exercise: 2 stars (contents\_in)
-- - - - [x] Exercise: 2 stars (in\_perm\_delete)
-- - - - [x] Exercise: 4 stars (contents\_perm)
-- - [x] Selection Sort, With Specification and Proof of Correctness
-- - - [x] Proof of Correctness of Selection sort
-- - - - [x] Exercise: 3 stars (select\_perm)
-- - - - [x] Exercise: 3 stars (selection\_sort\_perm)
-- - - - [x] Exercise: 3 stars (select\_smallest)
-- - - - [x] Exercise: 3 stars (selection\_sort\_sorted)
-- - - [x] Recursive Functions That are Not Structurally Recursive
-- - - - [x] Exercise: 3 stars (selsort'\_perm)
-- - [x] Binary Search Trees
-- - - [x] Proof of Correctness
-- - - - [x] Exercise: 2 stars (example\_map)
-- - - - [x] Exercise: 3 stars (check\_example\_map)
-- - - - [x] Exercise: 3 stars (lookup\_relate)
-- - - - [x] Exercise: 4 stars (insert\_relate)
-- - - [x] Correctness Proof of the `elements` Function
-- - - - [x] Exercise: 3 stars (elements\_relate\_informal)
-- - - - [x] Exercise: 4 stars (not\_elements\_relate)
-- - - [x] Representation Invariants
-- - - - [x] Exercise: 3 stars, optional (elements\_slow\_elements)
-- - - - [x] Exercise: 3 stars, optional (slow\_elements\_range)
-- - - - [x] Auxiliary Lemmas About `In` and `list2map`
-- - - - - [x] Exercise: 3 stars, optional (elements\_relate)
-- - - [x] Preservation of Representation Invariant
-- - - - [x] Exercise: 1 star (empty\_tree\_SearchTree)
-- - - - [x] Exercise: 3 stars (insert\_SearchTree)
-- - - [x] Every Well-Formed Tree Does Actually Relate to an Abstraction
-- - - - [x] Exercise: 2 stars (can\_relate)
-- - - - [x] Exercise: 2 stars (unrealistically\_strong\_can\_relate)
-- - - [x] It Wasn't Really Luck, Actually
-- - - - [x] Exercise: 4 stars, optional (lookup\_relateX)
-- - [x] Abstract Data Types
-- - - [x] Exercise: 3 stars (TreeTable\_gso)
-- - - [x] A Brief Excursion into Dependent Types
-- - - - [x] Exercise: 3 stars (TreeTable2\_gso)
-- - - [x] Exercise in Data Abstraction
-- - - - [x] Exercise: 4 stars, optional (listish\_abstraction)
-- - - - [x] Exercise: 2 stars, optional (fib\_time\_complexity)
-- - [x] Running Coq programs in ML
-- - - [x] SearchTrees, Extracted
-- - - - [x] Trees, on `int` Instead of `nat`
-- - - - - [x] Exercise: 3 stars (lookup\_relate)
-- - - - - [x] Exercise: 3 stars (insert\_relate)
-- - - - - [x] Exercise: 1 star (unrealistically\_strong\_can\_relate)
-- - [x] Implementation and Proof of Red-Black Trees
-- - - [x] The SearchTree Property
-- - - - [x] Exercise: 2 stars (ins\_SearchTree)
-- - - - [x] Exercise: 2 stars (valid)
-- - - - [x] Exercise: 3 stars (lookup\_relate)
-- - - - [x] Exercise: 4 stars (balance\_relate)
-- - - - [x] Exercise: 3 stars (ins\_relate)
-- - - - [x] Exercise: 4 stars, optional (elements)
-- - - [x] Proving Efficiency
-- - - - [x] Exercise: 4 stars (is\_redblack\_properties)
-- - [x] Number Representations and Efficient Lookup Tables
-- - - [x] Efficient Positive Numbers
-- - - - [x] Exercise: 2 stars (succ\_correct)
-- - - - [x] Exercise: 3 stars (addc\_correct)
-- - - - [x] Exercise: 5 stars (compare\_correct)
-- - - [x] Tries: Efficient Lookup Tables on Positive Binary Numbers
-- - - - [x] From `N`\*`logN`\*`logN` to `N`\*`logN`
-- - - - - [x] Exercise: 2 stars (successor\_of\_Z\_constant\_time)
-- - - [x] Proving the Correctness of Trie Tables
-- - - - [x] Lemmas About the Relation Between `lookup` and `insert`
-- - - - - [x] Exercise: 1 star (look\_leaf)
-- - - - - [x] Exercise: 2 stars (look\_ins\_same)
-- - - - - [x] Exercise: 3 stars (look\_ins\_other)
-- - - - [x] Bijection Between `positive` and `nat`.
-- - - - - [x] Exercise: 2 stars (pos2nat\_bijective)
-- - - - [x] Proving That Tries are a "Table" ADT.
-- - - - - [x] Exercise: 2 stars (is\_trie)
-- - - - - [x] Exercise: 2 stars (empty\_relate)
-- - - - - [x] Exercise: 2 stars (lookup\_relate)
-- - - - - [x] Exercise: 3 stars (insert\_relate)
-- - - - [x] Sanity Check
-- - [x] Priority Queues
-- - - [x] Implementation
-- - - - [x] Some Preliminaries
-- - - - - [x] Exercise: 3 stars (select\_perm\_and\_friends)
-- - - [x] Predicates on Priority Queues
-- - - - [x] Characterizations of the Operations on Queues
-- - - - - [x] Exercise: 2 stars (simple\_priq\_proofs)
-- - [x] Binomial Queues
-- - - [x] Proof of Algorithm Correctness
-- - - - [x] Various Functions Preserve the Representation Invariant
-- - - - - [x] Exercise: 1 star (empty\_priq)
-- - - - - [x] Exercise: 2 stars (smash\_valid)
-- - - - - [x] Exercise: 3 stars (carry\_valid)
-- - - - - [x] Exercise: 2 stars, optional (insert\_valid)
-- - - - - [x] Exercise: 3 stars, optional (join\_valid)
-- - - - - [x] Exercise: 5 stars, optional (delete\_max\_Some\_priq)
-- - - - [x] The Abstraction Relation
-- - - - - [x] Exercise: 3 stars (priqueue\_elems)
-- - - - [x] Sanity Checks on the Abstraction Relation
-- - - - - [x] Exercise: 2 stars (tree\_elems\_ext)
-- - - - - [x] Exercise: 2 stars (tree\_perm)
-- - - - - [x] Exercise: 2 stars (priqueue\_elems\_ext)
-- - - - - [x] Exercise: 2 stars (abs\_perm)
-- - - - - [x] Exercise: 2 stars (can\_relate)
-- - - - [x] Various Functions Preserve the Abstraction Relation
-- - - - - [x] Exercise: 1 star (empty\_relate)
-- - - - - [x] Exercise: 3 stars (smash\_elems)
-- - - - [x] Optional Exercises
-- - - - - [x] Exercise: 4 stars, optional (carry\_elems)
-- - - - - [x] Exercise: 2 stars, optional (insert\_elems)
-- - - - - [x] Exercise: 4 stars, optional (join\_elems)
-- - - - - [x] Exercise: 2 stars, optional (merge\_relate)
-- - - - - [x] Exercise: 5 stars, optional (delete\_max\_None\_relate)
-- - - - - [x] Exercise: 5 stars, optional (delete\_max\_Some\_relate)
-- - - [x] Measurement.
-- - - - [x] Exercise: 5 stars, optional (binom\_measurement)
-- - [x] Programming with Decision Procedures
-- - - [x] Using `sumbool` to Characterize Decision Procedures
-- - - - [x] `sumbool` in the Coq Standard Library
-- - - - - [x] Exercise: 2 stars (insert\_sorted\_le\_dec)
-- - - [x] Decidability and Computability
-- - - - [x] Opacity of `Qed`
-- - - - - [x] Exercise: 2 stars (list\_nat\_in)
+- - [ ] Basic Techniques for Permutations and Ordering
+- - - [ ] Permutations
+- - - - [ ] Exercise: 2 stars (Permutation\_properties)
+- - - - [ ] Exercise: 3 stars (permut\_example)
+- - - - [ ] Exercise: 1 star (not\_a\_permutation)
+- - - [ ] Summary: Comparisons and Permutations
+- - - - [ ] Exercise: 2 stars (Forall\_perm)
+- - [ ] Insertion Sort
+- - - [ ] Proof of Correctness
+- - - - [ ] Exercise: 3 stars (insert\_perm)
+- - - - [ ] Exercise: 3 stars (sort\_perm)
+- - - - [ ] Exercise: 4 stars (insert\_sorted)
+- - - - [ ] Exercise: 2 stars (sort\_sorted)
+- - - [ ] Making Sure the Specification is Right
+- - - - [ ] Exercise: 4 stars, optional (sorted\_sorted')
+- - - - [ ] Exercise: 3 stars, optional (sorted'\_sorted)
+- - - [ ] Proving Correctness from the Alternate Spec
+- - - - [ ] Exercise: 3 stars, optional (Forall\_nth)
+- - - - [ ] Exercise: 4 stars, optional (insert\_sorted')
+- - - - [ ] Exercise: 4 stars, optional (sort\_sorted')
+- - [ ] Insertion Sort With Multisets
+- - - [ ] Exercise: 1 star (union\_assoc)
+- - - [ ] Exercise: 1 star (union\_comm)
+- - - [ ] Correctness
+- - - - [ ] Exercise: 3 stars (insert\_contents)
+- - - - [ ] Exercise: 3 stars (sort\_contents)
+- - - - [ ] Exercise: 1 star (permutations\_vs\_multiset)
+- - - [ ] Permutations and Multisets
+- - - - [ ] Exercise: 3 stars (perm\_contents)
+- - - - [ ] Exercise: 3 stars (delete\_contents)
+- - - - [ ] Exercise: 2 stars (contents\_perm\_aux)
+- - - - [ ] Exercise: 2 stars (contents\_in)
+- - - - [ ] Exercise: 2 stars (in\_perm\_delete)
+- - - - [ ] Exercise: 4 stars (contents\_perm)
+- - [ ] Selection Sort, With Specification and Proof of Correctness
+- - - [ ] Proof of Correctness of Selection sort
+- - - - [ ] Exercise: 3 stars (select\_perm)
+- - - - [ ] Exercise: 3 stars (selection\_sort\_perm)
+- - - - [ ] Exercise: 3 stars (select\_smallest)
+- - - - [ ] Exercise: 3 stars (selection\_sort\_sorted)
+- - - [ ] Recursive Functions That are Not Structurally Recursive
+- - - - [ ] Exercise: 3 stars (selsort'\_perm)
+- - [ ] Binary Search Trees
+- - - [ ] Proof of Correctness
+- - - - [ ] Exercise: 2 stars (example\_map)
+- - - - [ ] Exercise: 3 stars (check\_example\_map)
+- - - - [ ] Exercise: 3 stars (lookup\_relate)
+- - - - [ ] Exercise: 4 stars (insert\_relate)
+- - - [ ] Correctness Proof of the `elements` Function
+- - - - [ ] Exercise: 3 stars (elements\_relate\_informal)
+- - - - [ ] Exercise: 4 stars (not\_elements\_relate)
+- - - [ ] Representation Invariants
+- - - - [ ] Exercise: 3 stars, optional (elements\_slow\_elements)
+- - - - [ ] Exercise: 3 stars, optional (slow\_elements\_range)
+- - - - [ ] Auxiliary Lemmas About `In` and `list2map`
+- - - - - [ ] Exercise: 3 stars, optional (elements\_relate)
+- - - [ ] Preservation of Representation Invariant
+- - - - [ ] Exercise: 1 star (empty\_tree\_SearchTree)
+- - - - [ ] Exercise: 3 stars (insert\_SearchTree)
+- - - [ ] Every Well-Formed Tree Does Actually Relate to an Abstraction
+- - - - [ ] Exercise: 2 stars (can\_relate)
+- - - - [ ] Exercise: 2 stars (unrealistically\_strong\_can\_relate)
+- - - [ ] It Wasn't Really Luck, Actually
+- - - - [ ] Exercise: 4 stars, optional (lookup\_relateX)
+- - [ ] Abstract Data Types
+- - - [ ] Exercise: 3 stars (TreeTable\_gso)
+- - - [ ] A Brief Excursion into Dependent Types
+- - - - [ ] Exercise: 3 stars (TreeTable2\_gso)
+- - - [ ] Exercise in Data Abstraction
+- - - - [ ] Exercise: 4 stars, optional (listish\_abstraction)
+- - - - [ ] Exercise: 2 stars, optional (fib\_time\_complexity)
+- - [ ] Running Coq programs in ML
+- - - [ ] SearchTrees, Extracted
+- - - - [ ] Trees, on `int` Instead of `nat`
+- - - - - [ ] Exercise: 3 stars (lookup\_relate)
+- - - - - [ ] Exercise: 3 stars (insert\_relate)
+- - - - - [ ] Exercise: 1 star (unrealistically\_strong\_can\_relate)
+- - [ ] Implementation and Proof of Red-Black Trees
+- - - [ ] The SearchTree Property
+- - - - [ ] Exercise: 2 stars (ins\_SearchTree)
+- - - - [ ] Exercise: 2 stars (valid)
+- - - - [ ] Exercise: 3 stars (lookup\_relate)
+- - - - [ ] Exercise: 4 stars (balance\_relate)
+- - - - [ ] Exercise: 3 stars (ins\_relate)
+- - - - [ ] Exercise: 4 stars, optional (elements)
+- - - [ ] Proving Efficiency
+- - - - [ ] Exercise: 4 stars (is\_redblack\_properties)
+- - [ ] Number Representations and Efficient Lookup Tables
+- - - [ ] Efficient Positive Numbers
+- - - - [ ] Exercise: 2 stars (succ\_correct)
+- - - - [ ] Exercise: 3 stars (addc\_correct)
+- - - - [ ] Exercise: 5 stars (compare\_correct)
+- - - [ ] Tries: Efficient Lookup Tables on Positive Binary Numbers
+- - - - [ ] From `N`\*`logN`\*`logN` to `N`\*`logN`
+- - - - - [ ] Exercise: 2 stars (successor\_of\_Z\_constant\_time)
+- - - [ ] Proving the Correctness of Trie Tables
+- - - - [ ] Lemmas About the Relation Between `lookup` and `insert`
+- - - - - [ ] Exercise: 1 star (look\_leaf)
+- - - - - [ ] Exercise: 2 stars (look\_ins\_same)
+- - - - - [ ] Exercise: 3 stars (look\_ins\_other)
+- - - - [ ] Bijection Between `positive` and `nat`.
+- - - - - [ ] Exercise: 2 stars (pos2nat\_bijective)
+- - - - [ ] Proving That Tries are a "Table" ADT.
+- - - - - [ ] Exercise: 2 stars (is\_trie)
+- - - - - [ ] Exercise: 2 stars (empty\_relate)
+- - - - - [ ] Exercise: 2 stars (lookup\_relate)
+- - - - - [ ] Exercise: 3 stars (insert\_relate)
+- - - - [ ] Sanity Check
+- - [ ] Priority Queues
+- - - [ ] Implementation
+- - - - [ ] Some Preliminaries
+- - - - - [ ] Exercise: 3 stars (select\_perm\_and\_friends)
+- - - [ ] Predicates on Priority Queues
+- - - - [ ] Characterizations of the Operations on Queues
+- - - - - [ ] Exercise: 2 stars (simple\_priq\_proofs)
+- - [ ] Binomial Queues
+- - - [ ] Proof of Algorithm Correctness
+- - - - [ ] Various Functions Preserve the Representation Invariant
+- - - - - [ ] Exercise: 1 star (empty\_priq)
+- - - - - [ ] Exercise: 2 stars (smash\_valid)
+- - - - - [ ] Exercise: 3 stars (carry\_valid)
+- - - - - [ ] Exercise: 2 stars, optional (insert\_valid)
+- - - - - [ ] Exercise: 3 stars, optional (join\_valid)
+- - - - - [ ] Exercise: 5 stars, optional (delete\_max\_Some\_priq)
+- - - - [ ] The Abstraction Relation
+- - - - - [ ] Exercise: 3 stars (priqueue\_elems)
+- - - - [ ] Sanity Checks on the Abstraction Relation
+- - - - - [ ] Exercise: 2 stars (tree\_elems\_ext)
+- - - - - [ ] Exercise: 2 stars (tree\_perm)
+- - - - - [ ] Exercise: 2 stars (priqueue\_elems\_ext)
+- - - - - [ ] Exercise: 2 stars (abs\_perm)
+- - - - - [ ] Exercise: 2 stars (can\_relate)
+- - - - [ ] Various Functions Preserve the Abstraction Relation
+- - - - - [ ] Exercise: 1 star (empty\_relate)
+- - - - - [ ] Exercise: 3 stars (smash\_elems)
+- - - - [ ] Optional Exercises
+- - - - - [ ] Exercise: 4 stars, optional (carry\_elems)
+- - - - - [ ] Exercise: 2 stars, optional (insert\_elems)
+- - - - - [ ] Exercise: 4 stars, optional (join\_elems)
+- - - - - [ ] Exercise: 2 stars, optional (merge\_relate)
+- - - - - [ ] Exercise: 5 stars, optional (delete\_max\_None\_relate)
+- - - - - [ ] Exercise: 5 stars, optional (delete\_max\_Some\_relate)
+- - - [ ] Measurement.
+- - - - [ ] Exercise: 5 stars, optional (binom\_measurement)
+- - [ ] Programming with Decision Procedures
+- - - [ ] Using `sumbool` to Characterize Decision Procedures
+- - - - [ ] `sumbool` in the Coq Standard Library
+- - - - - [ ] Exercise: 2 stars (insert\_sorted\_le\_dec)
+- - - [ ] Decidability and Computability
+- - - - [ ] Opacity of `Qed`
+- - - - - [ ] Exercise: 2 stars (list\_nat\_in)
 - - [ ] Graph Coloring
-- - - [x] Lemmas About Sets and Maps
-- - - - [x] S.remove and S.elements
-- - - - - [x] Exercise: 3 stars (Sremove\_elements)
-- - - - [x] Lists of (key,value) Pairs
-- - - - - [x] Exercise: 2 stars (InA\_map\_fst\_key)
-- - - - - [x] Exercise: 3 stars (Sorted\_lt\_key)
-- - - - [x] Cardinality
-- - - - - [x] Exercise: 4 stars (cardinal\_map)
-- - - - - [x] Exercise: 4 stars (Sremove\_cardinal\_less)
-- - - - - [x] Exercise: 4 stars (Mremove\_elements)
-- - - - - [x] Exercise: 3 stars (Mremove\_cardinal\_less)
-- - - - - [x] Exercise: 2 stars (two\_little\_lemmas)
-- - - - - [x] Exercise: 3 stars (Sin\_domain)
-- - - [x] Now Begins the Graph Coloring Program
-- - - - [x] Some Proofs in Support of Termination
-- - - - - [x] Exercise: 3 stars (subset\_nodes\_sub)
-- - - - - [x] Exercise: 3 stars (select\_terminates)
+- - - [ ] Lemmas About Sets and Maps
+- - - - [ ] S.remove and S.elements
+- - - - - [ ] Exercise: 3 stars (Sremove\_elements)
+- - - - [ ] Lists of (key,value) Pairs
+- - - - - [ ] Exercise: 2 stars (InA\_map\_fst\_key)
+- - - - - [ ] Exercise: 3 stars (Sorted\_lt\_key)
+- - - - [ ] Cardinality
+- - - - - [ ] Exercise: 4 stars (cardinal\_map)
+- - - - - [ ] Exercise: 4 stars (Sremove\_cardinal\_less)
+- - - - - [ ] Exercise: 4 stars (Mremove\_elements)
+- - - - - [ ] Exercise: 3 stars (Mremove\_cardinal\_less)
+- - - - - [ ] Exercise: 2 stars (two\_little\_lemmas)
+- - - - - [ ] Exercise: 3 stars (Sin\_domain)
+- - - [ ] Now Begins the Graph Coloring Program
+- - - - [ ] Some Proofs in Support of Termination
+- - - - - [ ] Exercise: 3 stars (subset\_nodes\_sub)
+- - - - - [ ] Exercise: 3 stars (select\_terminates)
 - - - [ ] Proof of Correctness of the Algorithm.
-- - - - [x] Exercise: 2 stars (adj\_ext)
-- - - - [x] Exercise: 3 stars (in\_colors\_of\_1)
+- - - - [ ] Exercise: 2 stars (adj\_ext)
+- - - - [ ] Exercise: 3 stars (in\_colors\_of\_1)
 - - - - [ ] Exercise: 4 stars (color\_correct)
 - [ ] Volume 4: QuickChick: Property-Based Testing in Coq
 - [ ] Volume 5: Verifiable C
-- - [x] Introduction to Verifiable C
-- - [x] Linked lists in Verifiable C
-- - [x] Stack ADT implemented by linked lists
-- - - [x] Specification of linked lists
-- - - - [x] Exercise: 1 star, standard (stack\_listrep\_properties)
-- - - [x] Specification of stack data structure
-- - - - [x] Exercise: 1 star, standard (stack\_properties)
-- - - [x] Proofs of the function bodies
-- - - - [x] Exercise: 2 stars, standard (body\_pop)
-- - - - [x] Exercise: 2 stars, standard (body\_push)
-- - - - [x] Exercise: 2 stars, standard (body\_newstack)
+- - [ ] Introduction to Verifiable C
+- - [ ] Linked lists in Verifiable C
+- - [ ] Stack ADT implemented by linked lists
+- - - [ ] Specification of linked lists
+- - - - [ ] Exercise: 1 star, standard (stack\_listrep\_properties)
+- - - [ ] Specification of stack data structure
+- - - - [ ] Exercise: 1 star, standard (stack\_properties)
+- - - [ ] Proofs of the function bodies
+- - - - [ ] Exercise: 2 stars, standard (body\_pop)
+- - - - [ ] Exercise: 2 stars, standard (body\_push)
+- - - - [ ] Exercise: 2 stars, standard (body\_newstack)
 - - [ ] A client of the stack functions
 - - - [ ] Proofs with integers
 - - - - [ ] Exercise: 2 stars, standard (Zinduction)
