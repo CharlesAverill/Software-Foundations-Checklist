@@ -596,13 +596,13 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Typing
 - - - - [x] Store typings
 - - - - - [x] Exercise: 2 stars, standard (cyclic\_store)
-- - - [ ] Properties
-- - - - [ ] Well-Typed Stores
-- - - - - [ ] Exercise: 2 stars, standard (store\_not\_unique)
+- - - [x] Properties
+- - - - [x] Well-Typed Stores
+- - - - - [x] Exercise: 2 stars, standard (store\_not\_unique)
 - - - - [ ] Preservation!
 - - - - - [ ] Exercise: 3 stars, standard (preservation\_informal)
-- - - [ ] References and Nontermination
-- - - - [ ] Exercise: 4 stars, standard (factorial\_ref)
+- - - [x] References and Nontermination
+- - - - [x] Exercise: 4 stars, standard (factorial\_ref)
 - - - [ ] Additional Exercises
 - - - - [ ] Exercise: 5 stars, standard, optional (garbage\_collector)
 - - [ ] Subtyping with Records
