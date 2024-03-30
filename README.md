@@ -625,9 +625,9 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Properties of Typing
 - - - - - [x] Progress
 - - - - - - [x] Exercise: 3 stars, standard (canonical\_forms\_of\_arrow\_types)
-- - [ ] Normalization of STLC
-- - - [ ] Exercise: 2 stars, standard (norm\_fail)
-- - - [ ] Exercise: 5 stars, standard, recommended (norm)
+- - [x] Normalization of STLC
+- - - [x] Exercise: 2 stars, standard (norm\_fail)
+- - - [x] Exercise: 5 stars, standard, recommended (norm)
 - - [ ] Tactic Library for Coq: A Gentle Introduction
 - - - [ ] Tactics for Advanced Lemma Instantiation
 - - - - [ ] Example of Instantiations
