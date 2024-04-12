@@ -628,16 +628,13 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - [x] Normalization of STLC
 - - - [x] Exercise: 2 stars, standard (norm\_fail)
 - - - [x] Exercise: 5 stars, standard, recommended (norm)
-- - [ ] Tactic Library for Coq: A Gentle Introduction
-- - - [ ] Tactics for Advanced Lemma Instantiation
-- - - - [ ] Example of Instantiations
-- - [ ] Theory and Practice of Automation in Coq Proofs
-- - - [ ] Example Proofs using Automation
-- - - - [ ] Determinism
-- - - - [ ] Preservation for STLC
-- - - - [ ] Progress for STLC
-- - - - [ ] BigStep and SmallStep
-- - - - [ ] Subtyping
+- - [x] Theory and Practice of Automation in Coq Proofs
+- - - [x] Example Proofs using Automation
+- - - - [x] Determinism
+- - - - [x] Preservation for STLC
+- - - - [x] Progress for STLC
+- - - - [x] BigStep and SmallStep
+- - - - [x] Subtyping
 - [ ] Volume 3: Verified Functional Algorithms
 - - [ ] Basic Techniques for Permutations and Ordering
 - - - [ ] Permutations
