@@ -912,3 +912,10 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [ ] Exercise: 4 stars, standard (body\_incr\_list)
 - - - [ ] Proof of the `incr` function
 - - - - [ ] Exercise: 4 stars, standard (body\_incr)
+- [ ] Volume 6: Separation Logic Foundations
+- - [ ] Basic Proofs in Separation Logic
+- - - [x] triple_quadruple
+- - - [x] triple_inplace_double
+- - - [x] triple_transfer
+- - - [x] triple_transfer_aliased
+- - - [x] triple_ref_greater_abstract
