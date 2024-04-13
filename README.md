@@ -913,9 +913,25 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [ ] Proof of the `incr` function
 - - - - [ ] Exercise: 4 stars, standard (body\_incr)
 - [ ] Volume 6: Separation Logic Foundations
-- - [ ] Basic Proofs in Separation Logic
-- - - [x] triple_quadruple
-- - - [x] triple_inplace_double
-- - - [x] triple_transfer
-- - - [x] triple_transfer_aliased
-- - - [x] triple_ref_greater_abstract
+- - [x] Basic Proofs in Separation Logic
+- - - [x] A First Taste
+- - - - [x] A Function with a Return Value
+- - - - - [x] Exercise: 1 star, standard, especially useful (triple_quadruple)
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_inplace_double)
+- - - [x] Separation Logic Operators
+- - - - [x] Transfer from one Reference to Another
+- - - - - [x] Exercise: 1 star, standard, especially useful (triple_transfer)
+- - - - - [x] Exercise: 1 star, standard, especially useful (triple_transfer_aliased)
+- - - - [x] Allocation of a Reference with Greater Contents
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_ref_greater_abstract)
+- - - - [x] Combined Reading and Freeing of a Reference
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_get_and_free)
+- - - - [x] Nondeterminism: Specifying Random Output Values
+- - - - - [x] Exercise: 2 stars, standard, optional (triple_two_dice)
+- - - [ ] Recursive Functions
+- - - - [x] A Recursive Function with State
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_repeat_incr)
+- - - - [x] Trying to Prove Incorrect Specifications
+- - - - - [x] Exercise: 2 stars, standard, optional (triple_repeat_incr')
+- - - - [x] A Recursive Function Involving two References
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_step_transfer)
