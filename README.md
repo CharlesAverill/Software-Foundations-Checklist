@@ -935,3 +935,232 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, standard, optional (triple_repeat_incr')
 - - - - [x] A Recursive Function Involving two References
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_step_transfer)
+- - [x] Representation Predicates
+- - - [x] First Pass
+- - - - [x] Length Function for Lists
+- - - - - [x] Exercise: 3 stars, standard, especially useful (triple_mlength)
+- - - - [x] Alternative Length Function for Lists
+- - - - - [x] Exercise: 3 stars, standard, especially useful (triple_mlength')
+- - - - [x] Free Function for Lists
+- - - - - [x] Exercise: 3 stars, standard, especially useful (Triple_mfree)
+- - - - [x] In-Place Reversal Function for Lists
+- - - - - [x] Exercise: 5 stars, standard, optional (triple_mrev)
+- - - [ ] More Details
+- - - - [x] Sized Stack
+- - - - - [x] Exercise: 3 stars, standard, especially useful (triple_push)
+- - - - - [x] Exercise: 4 stars, standard, especially useful (triple_pop)
+- - - - - [x] Exercise: 2 stars, standard, optional (triple_top)
+- - - - [x] Additional Tooling for [MTree]
+- - - - - [x] Exercise: 2 stars, standard, optional (triple_mnode')
+- - - - [x] Tree Copy
+- - - - - [x] Exercise: 3 stars, standard, optional (triple_tree_copy)
+- - - - [x] Computing the Sum of the Items in a Tree
+- - - - - [x] Exercise: 4 stars, standard, optional (triple_mtreesum)
+- - - - [x] Verification of a Counter Function with Local State
+- - - - - [x] Exercise: 4 stars, standard, especially useful (triple_apply_counter_abstract)
+- - - - - [x] Exercise: 2 stars, standard, optional (triple_test_counter)
+- - - [x] Optional Material
+- - - - [x] Specification of an Iterator on Mutable Lists
+- - - - - [x] Exercise: 5 stars, standard, especially useful (triple_miter)
+- - - - [x] Computing the Length of a Mutable List using an Iterator
+- - - - - [x] Exercise: 4 stars, standard, especially useful (triple_mlength_using_miter)
+- - - - [x] A Factorial Function in Continuation-Passing Style
+- - - - - [x] Exercise: 4 stars, standard, optional (triple_cps_facto_aux)
+- - - - - [x] Exercise: 2 stars, standard, optional (triple_cps_facto)
+- - - - [x] An In-Place Concatenation Function in Continuation-Passing Style
+- - - - - [x] Exercise: 5 stars, standard, optional (triple_cps_append_aux)
+- - - - - [x] Exercise: 3 stars, standard, optional (triple_cps_append)
+- - [ ] Heap Entailment
+- - - [ ] First Pass
+- - - - [ ] Definition of Entailment
+- - - - - [ ] Exercise: 1 star, standard, especially useful (himpl_antisym)
+- - - - [ ] Entailment for Postconditions
+- - - - - [ ] Exercise: 1 star, standard, especially useful (qimpl_antisym)
+- - - - [ ] Introduction and Elimination Rules w.r.t. Entailments
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (himpl_hstar_hpure_r).
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (himpl_hstar_hpure_l).
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (himpl_hexists_r).
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (himpl_hexists_l).
+- - - - [ ] Extracting Information from Heap Predicates
+- - - - - [ ] Rules for Naming Heaps
+- - - - - [ ] Exercise: 3 stars, standard, optional (hexists_named_eq)
+- - - - [ ] Identifying True and False Entailments
+- - - [ ] More Details
+- - - - [ ] Proving Entailments by Hand
+- - - - - [ ] Exercise: 3 stars, standard, optional (himpl_example_1)
+- - - - - [ ] Exercise: 3 stars, standard, optional (himpl_example_2)
+- - - - - [ ] Exercise: 3 stars, standard, optional (himpl_example_3)
+- - - - [ ] The [xsimpl] Tactic
+- - - - - [ ] [xsimpl] to Extract Pure Facts and Quantifiers in LHS
+- - - - - [ ] [xsimpl] to Cancel Out Heap Predicates from LHS and RHS
+- - - - - [ ] [xsimpl] to Instantiate Pure Facts and Quantifiers in RHS
+- - - - - [ ] [xsimpl] on Entailments Between Postconditions
+- - - - - [ ] Example of Entailment Proofs using [xpull] and [xsimpl]
+- - - - [ ] The [xchange] Tactic
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (xchange_lemma)
+- - - [ ] Optional Material
+- - - - [ ] Proofs of Rules for Entailment
+- - - - - [ ] Exercise: 1 star, standard, especially useful (himpl_frame_l)
+- - - - - [ ] Exercise: 1 star, standard, especially useful (himpl_frame_r)
+- - - - - [ ] Exercise: 1 star, standard, especially useful (himpl_frame_lr)
+- - [ ] Reasoning Rules for Term Constructs
+- - - [ ] First Pass
+- - - - [ ] Rules for Term Constructs
+- - - - - [ ] Reasoning Rule for Sequences
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_seq)
+- - - - - [ ] Reasoning Rule for Let-Bindings
+- - - - - [ ] Reasoning Rule for Conditionals
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_if_case)
+- - - - - [ ] Reasoning Rule for Values
+- - - - - [ ] Exercise: 1 star, standard, especially useful (triple_val_minimal)
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_val')
+- - - - - [ ] Exercise: 4 stars, standard, especially useful (triple_let_val)
+- - - - - [ ] Reasoning Rule for Function Definitions
+- - - - - [ ] Reasoning Rule for Function Calls
+- - - - [ ] Rules for Primitive Arithmetic Operations
+- - - - - [ ] Addition
+- - - - - [ ] Division
+- - - - - [ ] Random-Number Generation
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_rand)
+- - - - [ ] Rules for Primitive Heap-Manipulating Operations
+- - - - - [ ] Allocation
+- - - - - [ ] Deallocation
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_free')
+- - - - - [ ] Read
+- - - - - [ ] Write
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_set)
+- - - - [ ] Program Verification using the Reasoning Rules of Separation Logic
+- - - - - [ ] Proof of [incr]
+- - - - - [ ] Proof of [succ_using_incr]
+- - - - - [ ] Exercise: 4 stars, standard, especially useful (triple_succ_using_incr)
+- - - - [ ] What's Next
+- - - [ ] More Details
+- - - - [ ] Triple for Terms with Same Semantics
+- - - - - [ ] Exercise: 1 star, standard, especially useful (eval_like_eta_expansion)
+- - - - - [ ] Exercise: 4 stars, standard, optional (eval_like_eta_expansion)
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (eta_same_triples)
+- - - - - [ ] Exercise: 3 stars, standard, optional (triple_trm_seq_assoc)
+- - - - [ ] The Combined Let-Frame Rule
+- - - - - [ ] Exercise: 3 stars, standard, especially useful (triple_let_frame)
+- - - [ ] Optional Material
+- - - - [ ] Alternative Specification Style for Pure Preconditions
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_div_from_triple_div')
+- - - - [ ] Alternative Specification Style for Result Values
+- - - - - [ ] Proof of [factorec]
+- - - - - [ ] Exercise: 4 stars, standard, especially useful (triple_factorec)
+- - [ ] Semantics of Weakest Preconditions
+- - - [ ] First Pass
+- - - - [ ] Structural Rules in Weakest-Precondition Style
+- - - - - [ ] The Frame Rule
+- - - - - [ ] The Rule of Consequence
+- - - - - [ ] The Extraction Rules
+- - - - - [ ] The Ramified Frame Rule
+- - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_conseq_of_wp_ramified)
+- - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_frame_of_wp_ramified)
+- - - - [ ] Reasoning Rules for Terms, in Weakest-Precondition Style
+- - - - - [ ] Rule for Values
+- - - - - [ ] Rule for Sequence
+- - - - - [ ] Rule for Let-Bindings
+- - - - - [ ] Rule for Functions
+- - - - - [ ] Rule for Conditionals
+- - - - - [ ] Exercise: 1 star, standard, optional (wp_if')
+- - - - - [ ] Rule For Function Applications
+- - - [ ] More Details
+- - - - [ ] Combined Structural Rule
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (wp_conseq_frame_trans)
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (wp_conseq_frame)
+- - - [ ] Optional Material
+- - - - [ ] Weakest Preconditions Derived from Triples, a First Route
+- - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_equiv_1)
+- - - - [ ] Weakest Preconditions Derived From Triples, a Second Route
+- - - - - [ ] Exercise: 4 stars, standard, optional (wp_equiv_2)
+- - - - [ ] Characterizations of [wp]
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (wp_equiv_iff_wp_pre_and_wp_weakest)
+- - - - [ ] Texan Triples
+- - - - - [ ] 1. Example of Texan Triples
+- - - - - [ ] 2. The General Pattern
+- - - - - [ ] 3. Other Examples
+- - - - - [ ] 4. Exercise
+- - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_incr)
+- - [ ] Weakest Precondition Generator
+- - - [ ] First Pass
+- - - - [ ] Step 4: [wpgen] Augmented with Support for Structural Rules
+- - - [ ] More Details
+- - - - [ ] Definition of [wpgen] for Each Term Construct
+- - - - - [ ] Definition of [wpgen] for Values
+- - - - - [ ] Definition of [wpgen] for Functions
+- - - - - [ ] Definition of [wpgen] for Sequence
+- - - - - [ ] Definition of [wpgen] for Let-Bindings
+- - - - - [ ] Definition of [wpgen] for Variables
+- - - - - [ ] Definition of [wpgen] for Function Applications
+- - - - - [ ] Definition of [wpgen] for Conditionals
+- - - - - [ ] Summary of the Definition of [wpgen] for Term Rules
+- - - - [ ] Computing with [wpgen]
+- - - - - [ ] Definition of Contexts and Operations on Them
+- - - - - [ ] [wpgen]: the Let-Binding Case
+- - - - - [ ] [wpgen]: the Variable Case
+- - - - - [ ] [wpgen]: the Application Case
+- - - - - [ ] [wpgen]: the Function Definition Case
+- - - - - [ ] [wpgen]: at Last, an Executable Function
+- - - - - [ ] Executing [wpgen] on a Concrete Program
+- - - - [ ] Optimizing the Readability of [wpgen] Output
+- - - - - [ ] Reability Step 1: Moving the Function below the Branches.
+- - - - - [ ] Readability Steps 2 and 3, Illustrated on the Case of Sequences
+- - - - - [ ] Readability Step 2: Auxiliary Definitions for other Constructs
+- - - - - [ ] Readability Step 3: Notation for Auxiliary Definitions
+- - - - - [ ] Test of [wpgen] with Notation.
+- - - - [ ] Extension of [wpgen] to Handle Structural Rules
+- - - - - [ ] Introduction of [mkstruct] in the Definition of [wpgen]
+- - - - - [ ] Properties of [mkstruct]
+- - - - - [ ] Realization of [mkstruct]
+- - - - - [ ] Definition of [wpgen] that Includes [mkstruct]
+- - - - [ ] An Example Proof
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_succ_using_incr_with_xlemmas)
+- - - - [ ] Making Proof Scripts More Concise
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_succ_using_incr_with_xtactics)
+- - - - [ ] Demo of a Practical Proof using x-Tactics.
+- - - [ ] Optional Material
+- - - - [ ] Tactics [xconseq] and [xframe]
+- - - - - [ ] Exercise: 1 star, standard, optional (xconseq_lemma)
+- - - - - [ ] Exercise: 2 stars, standard, optional (xframe_lemma)
+- - - - [ ] Evaluation of [wpgen] Recursively in Locally Defined Functions
+- - - - - [ ] 1. Treatment of Non-Recursive Functions
+- - - - - [ ] 2. Treatment of Recursive Functions
+- - - - - [ ] 3. Final Definition of [wpgen], with Processing a Local Functions
+- - - - - [ ] 4. Tactic for Reasoning About Functions
+- - - - - [ ] 5. Example Computation of [wpgen] in Presence of a Local Function
+- - [ ] Soundness of the Weakest Precondition Generator
+- - - [ ] More Details
+- - - - [ ] Soundness of [mkstruct]
+- - - - - [ ] Exercise: 3 stars, standard, especially useful (mkstruct_idempotent)
+- - - - [ ] Statement of Soundness of [wpgen] for Closed Terms
+- - - [ ] Optional Material
+- - [ ] Affine Separation Logic
+- - - [ ] First Pass
+- - - - [ ] Definition of the "Affine Top" Heap Predicates
+- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_frame)
+- - - - - [ ] Exercise: 2 stars, standard, optional (hgc_inv)
+- - - - [ ] Properties of the [\GC] Predicate
+- - - - - [ ] Exercise: 3 stars, standard, especially useful (himpl_hgc_absorb)
+- - - - [ ] Soundness of the Discard Rules
+- - - - - [ ] Exercise: 3 stars, standard, especially useful (triple_hgc_post)
+- - - - - [ ] Exercise: 1 star, standard, especially useful (triple_haffine_post)
+- - - - - [ ] Exercise: 1 star, standard, optional (triple_hgc_post_from_triple_haffine_post)
+- - - - - [ ] Exercise: 1 star, standard, optional (triple_haffine_pre)
+- - - - [ ] Combined Structural Rules
+- - - - - [ ] Exercise: 2 stars, standard, optional (triple_conseq_frame_hgc)
+- - - - - [ ] Exercise: 1 star, standard, optional (triple_ramified_frame_hgc)
+- - - [ ] More Details
+- - - - [ ] Discard Rules in WP Style
+- - - - - [ ] Exercise: 1 star, standard, optional (wp_hgc_post)
+- - - - - [ ] Exercise: 3 stars, standard, optional (wp_haffine_pre)
+- - - - - [ ] Exercise: 3 stars, standard, optional (wp_haffine_pre)
+- - - - [ ] Revised Definition of [mkstruct]
+- - - - - [ ] Exercise: 2 stars, standard, optional (mkstruct_haffine_post)
+- - - - - [ ] Exercise: 2 stars, standard, optional (mkstruct_haffine_pre)
+- - - - [ ] The Proof Tactics for Applying the Discard Rules
+- - - [ ] Optional Material
+- - [ ] Reasoning about Records
+- - - [ ] First Pass
+- - - - [ ] Allocation of Records with Initializers
+- - - [ ] Optional Material

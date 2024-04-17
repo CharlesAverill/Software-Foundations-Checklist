@@ -1,8 +1,8 @@
 # ignore that this should just be a python file... it started out as more bash
-
-rp=$(realpath $1)
-comments=$(grep "(** *" $rp)
-python -c "
+for filename in "$@"; do
+    rp=$(realpath "$filename")
+    comments=$(grep "(** *" "$rp")
+    python -c "
 l = '''${comments}'''.strip().split('\n')
 l = [s for s in l if s.startswith('(** *')]
 levels = []
@@ -25,3 +25,4 @@ for i, (level, title) in enumerate(zip(levels, titles)):
         print('-' + ' -' * level, '[ ]', title)
     except:
         pass"
+done
