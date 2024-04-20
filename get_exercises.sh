@@ -3,7 +3,7 @@ for filename in "$@"; do
     rp=$(realpath "$filename")
     comments=$(grep "(** *" "$rp")
     python -c "
-l = '''${comments}'''.strip().split('\n')
+l = r'''${comments}'''.strip().split('\n')
 l = [s for s in l if s.startswith('(** *')]
 levels = []
 titles = []
