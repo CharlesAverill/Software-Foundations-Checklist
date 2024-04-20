@@ -970,39 +970,39 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] An In-Place Concatenation Function in Continuation-Passing Style
 - - - - - [x] Exercise: 5 stars, standard, optional (triple_cps_append_aux)
 - - - - - [x] Exercise: 3 stars, standard, optional (triple_cps_append)
-- - [ ] Heap Entailment
-- - - [ ] First Pass
-- - - - [ ] Definition of Entailment
-- - - - - [ ] Exercise: 1 star, standard, especially useful (himpl_antisym)
-- - - - [ ] Entailment for Postconditions
-- - - - - [ ] Exercise: 1 star, standard, especially useful (qimpl_antisym)
-- - - - [ ] Introduction and Elimination Rules w.r.t. Entailments
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (himpl_hstar_hpure_r).
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (himpl_hstar_hpure_l).
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (himpl_hexists_r).
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (himpl_hexists_l).
-- - - - [ ] Extracting Information from Heap Predicates
-- - - - - [ ] Rules for Naming Heaps
-- - - - - [ ] Exercise: 3 stars, standard, optional (hexists_named_eq)
-- - - - [ ] Identifying True and False Entailments
-- - - [ ] More Details
-- - - - [ ] Proving Entailments by Hand
-- - - - - [ ] Exercise: 3 stars, standard, optional (himpl_example_1)
-- - - - - [ ] Exercise: 3 stars, standard, optional (himpl_example_2)
-- - - - - [ ] Exercise: 3 stars, standard, optional (himpl_example_3)
-- - - - [ ] The [xsimpl] Tactic
-- - - - - [ ] [xsimpl] to Extract Pure Facts and Quantifiers in LHS
-- - - - - [ ] [xsimpl] to Cancel Out Heap Predicates from LHS and RHS
-- - - - - [ ] [xsimpl] to Instantiate Pure Facts and Quantifiers in RHS
-- - - - - [ ] [xsimpl] on Entailments Between Postconditions
-- - - - - [ ] Example of Entailment Proofs using [xpull] and [xsimpl]
-- - - - [ ] The [xchange] Tactic
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (xchange_lemma)
-- - - [ ] Optional Material
-- - - - [ ] Proofs of Rules for Entailment
-- - - - - [ ] Exercise: 1 star, standard, especially useful (himpl_frame_l)
-- - - - - [ ] Exercise: 1 star, standard, especially useful (himpl_frame_r)
-- - - - - [ ] Exercise: 1 star, standard, especially useful (himpl_frame_lr)
+- - [x] Heap Entailment
+- - - [x] First Pass
+- - - - [x] Definition of Entailment
+- - - - - [x] Exercise: 1 star, standard, especially useful (himpl_antisym)
+- - - - [x] Entailment for Postconditions
+- - - - - [x] Exercise: 1 star, standard, especially useful (qimpl_antisym)
+- - - - [x] Introduction and Elimination Rules w.r.t. Entailments
+- - - - - [x] Exercise: 2 stars, standard, especially useful (himpl_hstar_hpure_r).
+- - - - - [x] Exercise: 2 stars, standard, especially useful (himpl_hstar_hpure_l).
+- - - - - [x] Exercise: 2 stars, standard, especially useful (himpl_hexists_r).
+- - - - - [x] Exercise: 2 stars, standard, especially useful (himpl_hexists_l).
+- - - - [x] Extracting Information from Heap Predicates
+- - - - - [x] Rules for Naming Heaps
+- - - - - [x] Exercise: 3 stars, standard, optional (hexists_named_eq)
+- - - - [x] Identifying True and False Entailments
+- - - [x] More Details
+- - - - [x] Proving Entailments by Hand
+- - - - - [x] Exercise: 3 stars, standard, optional (himpl_example_1)
+- - - - - [x] Exercise: 3 stars, standard, optional (himpl_example_2)
+- - - - - [x] Exercise: 3 stars, standard, optional (himpl_example_3)
+- - - - [x] The [xsimpl] Tactic
+- - - - - [x] [xsimpl] to Extract Pure Facts and Quantifiers in LHS
+- - - - - [x] [xsimpl] to Cancel Out Heap Predicates from LHS and RHS
+- - - - - [x] [xsimpl] to Instantiate Pure Facts and Quantifiers in RHS
+- - - - - [x] [xsimpl] on Entailments Between Postconditions
+- - - - - [x] Example of Entailment Proofs using [xpull] and [xsimpl]
+- - - - [x] The [xchange] Tactic
+- - - - - [x] Exercise: 2 stars, standard, especially useful (xchange_lemma)
+- - - [x] Optional Material
+- - - - [x] Proofs of Rules for Entailment
+- - - - - [x] Exercise: 1 star, standard, especially useful (himpl_frame_l)
+- - - - - [x] Exercise: 1 star, standard, especially useful (himpl_frame_r)
+- - - - - [x] Exercise: 1 star, standard, especially useful (himpl_frame_lr)
 - - [ ] Reasoning Rules for Term Constructs
 - - - [ ] First Pass
 - - - - [ ] Rules for Term Constructs
