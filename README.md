@@ -1003,30 +1003,30 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 1 star, standard, especially useful (himpl_frame_l)
 - - - - - [x] Exercise: 1 star, standard, especially useful (himpl_frame_r)
 - - - - - [x] Exercise: 1 star, standard, especially useful (himpl_frame_lr)
-- - [ ] Structural Reasoning Rules
+- - [x] Structural Reasoning Rules
 - - - [x] First Pass
 - - - - [x] Derived Structural Rules
 - - - - - [x] Exercise: 1 star, standard, especially useful (triple_conseq_frame)
 - - - - - [x] Exercise: 1 star, standard, optional (triple_hpure')
-- - - [ ] More Details
-- - - - [ ] Proof of the Extraction Rules
-- - - - - [ ] Exercise: 1 star, standard, especially useful (triple_hexists)
-- - - - [ ] Rule for Naming Heaps
-- - - - - [ ] Exercise: 1 star, standard, optional (triple_named_heap)
-- - - [ ] Optional Material
-- - - - [ ] Alternative Structural Rule for Existentials
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_hexists2)
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_hexists_of_triple_hexists2)
-- - - - [ ] Equivalence Between Small-Step and Omni-Big-Step
-- - - - - [ ] Exercise: 2 stars, standard, optional (seval_val_inv)
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (seval_terminates)
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (seval_safe)
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (seval_correct)
-- - - - - [ ] Exercise: 5 stars, standard, especially useful (seval_seq)
-- - - - - [ ] Exercise: 5 stars, standard, optional (seval_let)
-- - - - [ ] Separation Logic Triples for Quasi-Deterministics Semantics
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (hoare_conseq)
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (btriple_frame)
+- - - [x] More Details
+- - - - [x] Proof of the Extraction Rules
+- - - - - [x] Exercise: 1 star, standard, especially useful (triple_hexists)
+- - - - [x] Rule for Naming Heaps
+- - - - - [x] Exercise: 1 star, standard, optional (triple_named_heap)
+- - - [x] Optional Material
+- - - - [x] Alternative Structural Rule for Existentials
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_hexists2)
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_hexists_of_triple_hexists2)
+- - - - [x] Equivalence Between Small-Step and Omni-Big-Step
+- - - - - [x] Exercise: 2 stars, standard, optional (seval_val_inv)
+- - - - - [x] Exercise: 2 stars, standard, especially useful (seval_terminates)
+- - - - - [x] Exercise: 3 stars, standard, especially useful (seval_safe)
+- - - - - [x] Exercise: 3 stars, standard, especially useful (seval_correct)
+- - - - - [x] Exercise: 5 stars, standard, especially useful (seval_seq)
+- - - - - [x] Exercise: 5 stars, standard, optional (seval_let)
+- - - - [x] Separation Logic Triples for Quasi-Deterministics Semantics
+- - - - - [x] Exercise: 2 stars, standard, especially useful (hoare_conseq)
+- - - - - [x] Exercise: 3 stars, standard, especially useful (btriple_frame)
 - - [ ] Reasoning Rules for Term Constructs
 - - - [ ] First Pass
 - - - - [ ] Rules for Term Constructs
