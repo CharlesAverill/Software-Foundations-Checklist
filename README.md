@@ -1027,36 +1027,36 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Separation Logic Triples for Quasi-Deterministics Semantics
 - - - - - [x] Exercise: 2 stars, standard, especially useful (hoare_conseq)
 - - - - - [x] Exercise: 3 stars, standard, especially useful (btriple_frame)
-- - [ ] Reasoning Rules for Term Constructs
-- - - [ ] First Pass
-- - - - [ ] Rules for Term Constructs
-- - - - - [ ] Reasoning Rule for Sequences
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_seq)
-- - - - - [ ] Reasoning Rule for Let-Bindings
-- - - - - [ ] Reasoning Rule for Conditionals
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_if_case)
-- - - - - [ ] Reasoning Rule for Values
-- - - - - [ ] Exercise: 1 star, standard, especially useful (triple_val_minimal)
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_val')
-- - - - - [ ] Exercise: 4 stars, standard, especially useful (triple_let_val)
-- - - - - [ ] Reasoning Rule for Function Definitions
-- - - - - [ ] Reasoning Rule for Function Calls
-- - - - [ ] Rules for Primitive Arithmetic Operations
-- - - - - [ ] Addition
-- - - - - [ ] Division
-- - - - - [ ] Random-Number Generation
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_rand)
-- - - - [ ] Rules for Primitive Heap-Manipulating Operations
-- - - - - [ ] Allocation
-- - - - - [ ] Deallocation
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_free')
-- - - - - [ ] Read
-- - - - - [ ] Write
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_set)
-- - - - [ ] Program Verification using the Reasoning Rules of Separation Logic
-- - - - - [ ] Proof of [incr]
-- - - - - [ ] Proof of [succ_using_incr]
-- - - - - [ ] Exercise: 4 stars, standard, especially useful (triple_succ_using_incr)
+- - [x] Reasoning Rules for Term Constructs
+- - - [x] First Pass
+- - - - [x] Rules for Term Constructs
+- - - - - [x] Reasoning Rule for Sequences
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_seq)
+- - - - - [x] Reasoning Rule for Let-Bindings
+- - - - - [x] Reasoning Rule for Conditionals
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_if_case)
+- - - - - [x] Reasoning Rule for Values
+- - - - - [x] Exercise: 1 star, standard, especially useful (triple_val_minimal)
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_val')
+- - - - - [x] Exercise: 4 stars, standard, especially useful (triple_let_val)
+- - - - - [x] Reasoning Rule for Function Definitions
+- - - - - [x] Reasoning Rule for Function Calls
+- - - - [x] Rules for Primitive Arithmetic Operations
+- - - - - [x] Addition
+- - - - - [x] Division
+- - - - - [x] Random-Number Generation
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_rand)
+- - - - [x] Rules for Primitive Heap-Manipulating Operations
+- - - - - [x] Allocation
+- - - - - [x] Deallocation
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_free')
+- - - - - [x] Read
+- - - - - [x] Write
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_set)
+- - - - [x] Program Verification using the Reasoning Rules of Separation Logic
+- - - - - [x] Proof of [incr]
+- - - - - [x] Proof of [succ_using_incr]
+- - - - - [x] Exercise: 4 stars, standard, especially useful (triple_succ_using_incr)
 - - - - [ ] What's Next
 - - - [ ] More Details
 - - - - [ ] Triple for Terms with Same Semantics
