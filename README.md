@@ -1030,48 +1030,31 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - [x] Reasoning Rules for Term Constructs
 - - - [x] First Pass
 - - - - [x] Rules for Term Constructs
-- - - - - [x] Reasoning Rule for Sequences
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_seq)
-- - - - - [x] Reasoning Rule for Let-Bindings
-- - - - - [x] Reasoning Rule for Conditionals
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_if_case)
-- - - - - [x] Reasoning Rule for Values
 - - - - - [x] Exercise: 1 star, standard, especially useful (triple_val_minimal)
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_val')
 - - - - - [x] Exercise: 4 stars, standard, especially useful (triple_let_val)
-- - - - - [x] Reasoning Rule for Function Definitions
-- - - - - [x] Reasoning Rule for Function Calls
 - - - - [x] Rules for Primitive Arithmetic Operations
-- - - - - [x] Addition
-- - - - - [x] Division
-- - - - - [x] Random-Number Generation
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_rand)
 - - - - [x] Rules for Primitive Heap-Manipulating Operations
-- - - - - [x] Allocation
-- - - - - [x] Deallocation
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_free')
-- - - - - [x] Read
-- - - - - [x] Write
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_set)
 - - - - [x] Program Verification using the Reasoning Rules of Separation Logic
-- - - - - [x] Proof of [incr]
-- - - - - [x] Proof of [succ_using_incr]
 - - - - - [x] Exercise: 4 stars, standard, especially useful (triple_succ_using_incr)
-- - - - [ ] What's Next
-- - - [ ] More Details
-- - - - [ ] Triple for Terms with Same Semantics
-- - - - - [ ] Exercise: 1 star, standard, especially useful (eval_like_eta_expansion)
-- - - - - [ ] Exercise: 4 stars, standard, optional (eval_like_eta_expansion)
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (eta_same_triples)
-- - - - - [ ] Exercise: 3 stars, standard, optional (triple_trm_seq_assoc)
-- - - - [ ] The Combined Let-Frame Rule
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (triple_let_frame)
-- - - [ ] Optional Material
-- - - - [ ] Alternative Specification Style for Pure Preconditions
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_div_from_triple_div')
-- - - - [ ] Alternative Specification Style for Result Values
-- - - - - [ ] Proof of [factorec]
-- - - - - [ ] Exercise: 4 stars, standard, especially useful (triple_factorec)
+- - - [x] More Details
+- - - - [x] Triple for Terms with Same Semantics
+- - - - - [x] Exercise: 1 star, standard, especially useful (eval_like_eta_expansion)
+- - - - - [x] Exercise: 4 stars, standard, optional (eval_like_eta_expansion)
+- - - - - [x] Exercise: 2 stars, standard, especially useful (eta_same_triples)
+- - - - - [x] Exercise: 3 stars, standard, optional (triple_trm_seq_assoc)
+- - - - [x] The Combined Let-Frame Rule
+- - - - - [x] Exercise: 3 stars, standard, especially useful (triple_let_frame)
+- - - [x] Optional Material
+- - - - [x] Alternative Specification Style for Pure Preconditions
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_div_from_triple_div')
+- - - - [x] Alternative Specification Style for Result Values
+- - - - - [x] Exercise: 4 stars, standard, especially useful (triple_factorec)
 - - [ ] Semantics of Weakest Preconditions
 - - - [ ] First Pass
 - - - - [ ] Structural Rules in Weakest-Precondition Style
