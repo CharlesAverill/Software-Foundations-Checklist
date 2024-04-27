@@ -1074,24 +1074,24 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Magic Wand for Postconditions: [qwand]
 - - - - - [x] Exercise: 1 star, standard, especially useful (himpl_qwand_hstar_same_r)
 - - - - - [x] Exercise: 2 stars, standard, optional (qwand_cancel_part)
-- - [ ] Semantics of Weakest Preconditions
-- - - [ ] First Pass
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_conseq_of_wp_ramified)
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_frame_of_wp_ramified)
-- - - - [ ] Reasoning Rules for Terms, in Weakest-Precondition Style
-- - - - - [ ] Exercise: 1 star, standard, optional (wp_if')
-- - - - - [ ] Rule For Function Applications
-- - - [ ] More Details
-- - - - [ ] Combined Structural Rule
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (wp_conseq_frame_trans)
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (wp_conseq_frame)
-- - - [ ] Optional Material
-- - - - [ ] Weakest Preconditions Derived from Triples, a First Route
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_equiv_1)
-- - - - [ ] Weakest Preconditions Derived From Triples, a Second Route
-- - - - - [ ] Exercise: 4 stars, standard, optional (wp_equiv_2)
-- - - - [ ] Characterizations of [wp]
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (wp_equiv_iff_wp_pre_and_wp_weakest)
+- - [x] Semantics of Weakest Preconditions
+- - - [x] First Pass
+- - - - - [x] Exercise: 3 stars, standard, especially useful (wp_conseq_of_wp_ramified)
+- - - - - [x] Exercise: 3 stars, standard, especially useful (wp_frame_of_wp_ramified)
+- - - - [x] Reasoning Rules for Terms, in Weakest-Precondition Style
+- - - - - [x] Exercise: 1 star, standard, optional (wp_if')
+- - - - - [x] Rule For Function Applications
+- - - [x] More Details
+- - - - [x] Combined Structural Rule
+- - - - - [x] Exercise: 2 stars, standard, especially useful (wp_conseq_frame_trans)
+- - - - - [x] Exercise: 2 stars, standard, especially useful (wp_conseq_frame)
+- - - [x] Optional Material
+- - - - [x] Weakest Preconditions Derived from Triples, a First Route
+- - - - - [x] Exercise: 3 stars, standard, especially useful (wp_equiv_1)
+- - - - [x] Weakest Preconditions Derived From Triples, a Second Route
+- - - - - [x] Exercise: 4 stars, standard, optional (wp_equiv_2)
+- - - - [x] Characterizations of [wp]
+- - - - - [x] Exercise: 2 stars, standard, especially useful (wp_equiv_iff_wp_pre_and_wp_weakest)
 - - - - [ ] Texan Triples
 - - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_incr)
 - - [ ] Weakest Precondition Generator
