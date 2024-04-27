@@ -1055,21 +1055,30 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_div_from_triple_div')
 - - - - [x] Alternative Specification Style for Result Values
 - - - - - [x] Exercise: 4 stars, standard, especially useful (triple_factorec)
+- - [x] The Magic Wand and Other Operators
+- - - [x] First Pass
+- - - - [x] Operator [hor]
+- - - - - [x] Exercise: 3 stars, standard, optional (hor_eq_hor')
+- - - - - [x] Exercise: 2 stars, standard, especially useful (hor_comm)
+- - - - - [x] Exercise: 4 stars, standard, especially useful (hor_comm)
+- - - - [x] Operator [hand]
+- - - - - [x] Exercise: 2 stars, standard, especially useful (hand_eq_hand')
+- - - - - [x] Exercise: 1 star, standard, especially useful (hand_comm)
+- - - - [x] Magic Wand: [hwand]
+- - - - - [x] Exercise: 2 stars, standard, especially useful (hwand_hpure_l)
+- - - - - [x] Exercise: 2 stars, standard, optional (himpl_hwand_hpure_lr)
+- - - - - [x] Exercise: 1 star, standard, especially useful (himpl_hwand_hstar_same_r)
+- - - - - [x] Exercise: 2 stars, standard, especially useful (hwand_cancel_part)
+- - - - - [x] Exercise: 3 stars, standard, optional (hwand_frame)
+- - - - - [x] Exercise: 3 stars, standard, optional (hwand_inv)
+- - - - [x] Magic Wand for Postconditions: [qwand]
+- - - - - [x] Exercise: 1 star, standard, especially useful (himpl_qwand_hstar_same_r)
+- - - - - [x] Exercise: 2 stars, standard, optional (qwand_cancel_part)
 - - [ ] Semantics of Weakest Preconditions
 - - - [ ] First Pass
-- - - - [ ] Structural Rules in Weakest-Precondition Style
-- - - - - [ ] The Frame Rule
-- - - - - [ ] The Rule of Consequence
-- - - - - [ ] The Extraction Rules
-- - - - - [ ] The Ramified Frame Rule
 - - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_conseq_of_wp_ramified)
 - - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_frame_of_wp_ramified)
 - - - - [ ] Reasoning Rules for Terms, in Weakest-Precondition Style
-- - - - - [ ] Rule for Values
-- - - - - [ ] Rule for Sequence
-- - - - - [ ] Rule for Let-Bindings
-- - - - - [ ] Rule for Functions
-- - - - - [ ] Rule for Conditionals
 - - - - - [ ] Exercise: 1 star, standard, optional (wp_if')
 - - - - - [ ] Rule For Function Applications
 - - - [ ] More Details
@@ -1084,64 +1093,21 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [ ] Characterizations of [wp]
 - - - - - [ ] Exercise: 2 stars, standard, especially useful (wp_equiv_iff_wp_pre_and_wp_weakest)
 - - - - [ ] Texan Triples
-- - - - - [ ] 1. Example of Texan Triples
-- - - - - [ ] 2. The General Pattern
-- - - - - [ ] 3. Other Examples
-- - - - - [ ] 4. Exercise
 - - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_incr)
 - - [ ] Weakest Precondition Generator
-- - - [ ] First Pass
-- - - - [ ] Step 4: [wpgen] Augmented with Support for Structural Rules
 - - - [ ] More Details
-- - - - [ ] Definition of [wpgen] for Each Term Construct
-- - - - - [ ] Definition of [wpgen] for Values
-- - - - - [ ] Definition of [wpgen] for Functions
-- - - - - [ ] Definition of [wpgen] for Sequence
-- - - - - [ ] Definition of [wpgen] for Let-Bindings
-- - - - - [ ] Definition of [wpgen] for Variables
-- - - - - [ ] Definition of [wpgen] for Function Applications
-- - - - - [ ] Definition of [wpgen] for Conditionals
-- - - - - [ ] Summary of the Definition of [wpgen] for Term Rules
-- - - - [ ] Computing with [wpgen]
-- - - - - [ ] Definition of Contexts and Operations on Them
-- - - - - [ ] [wpgen]: the Let-Binding Case
-- - - - - [ ] [wpgen]: the Variable Case
-- - - - - [ ] [wpgen]: the Application Case
-- - - - - [ ] [wpgen]: the Function Definition Case
-- - - - - [ ] [wpgen]: at Last, an Executable Function
-- - - - - [ ] Executing [wpgen] on a Concrete Program
-- - - - [ ] Optimizing the Readability of [wpgen] Output
-- - - - - [ ] Reability Step 1: Moving the Function below the Branches.
-- - - - - [ ] Readability Steps 2 and 3, Illustrated on the Case of Sequences
-- - - - - [ ] Readability Step 2: Auxiliary Definitions for other Constructs
-- - - - - [ ] Readability Step 3: Notation for Auxiliary Definitions
-- - - - - [ ] Test of [wpgen] with Notation.
-- - - - [ ] Extension of [wpgen] to Handle Structural Rules
-- - - - - [ ] Introduction of [mkstruct] in the Definition of [wpgen]
-- - - - - [ ] Properties of [mkstruct]
-- - - - - [ ] Realization of [mkstruct]
-- - - - - [ ] Definition of [wpgen] that Includes [mkstruct]
 - - - - [ ] An Example Proof
 - - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_succ_using_incr_with_xlemmas)
 - - - - [ ] Making Proof Scripts More Concise
 - - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_succ_using_incr_with_xtactics)
-- - - - [ ] Demo of a Practical Proof using x-Tactics.
 - - - [ ] Optional Material
 - - - - [ ] Tactics [xconseq] and [xframe]
 - - - - - [ ] Exercise: 1 star, standard, optional (xconseq_lemma)
 - - - - - [ ] Exercise: 2 stars, standard, optional (xframe_lemma)
-- - - - [ ] Evaluation of [wpgen] Recursively in Locally Defined Functions
-- - - - - [ ] 1. Treatment of Non-Recursive Functions
-- - - - - [ ] 2. Treatment of Recursive Functions
-- - - - - [ ] 3. Final Definition of [wpgen], with Processing a Local Functions
-- - - - - [ ] 4. Tactic for Reasoning About Functions
-- - - - - [ ] 5. Example Computation of [wpgen] in Presence of a Local Function
 - - [ ] Soundness of the Weakest Precondition Generator
 - - - [ ] More Details
 - - - - [ ] Soundness of [mkstruct]
 - - - - - [ ] Exercise: 3 stars, standard, especially useful (mkstruct_idempotent)
-- - - - [ ] Statement of Soundness of [wpgen] for Closed Terms
-- - - [ ] Optional Material
 - - [ ] Affine Separation Logic
 - - - [ ] First Pass
 - - - - [ ] Definition of the "Affine Top" Heap Predicates
@@ -1166,8 +1132,4 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [ ] Exercise: 2 stars, standard, optional (mkstruct_haffine_post)
 - - - - - [ ] Exercise: 2 stars, standard, optional (mkstruct_haffine_pre)
 - - - - [ ] The Proof Tactics for Applying the Discard Rules
-- - - [ ] Optional Material
-- - [ ] Reasoning about Records
-- - - [ ] First Pass
-- - - - [ ] Allocation of Records with Initializers
 - - - [ ] Optional Material
