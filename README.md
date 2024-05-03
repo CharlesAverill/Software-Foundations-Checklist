@@ -1092,18 +1092,18 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 4 stars, standard, optional (wp_equiv_2)
 - - - - [x] Characterizations of [wp]
 - - - - - [x] Exercise: 2 stars, standard, especially useful (wp_equiv_iff_wp_pre_and_wp_weakest)
-- - - - [ ] Texan Triples
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (wp_incr)
-- - [ ] Weakest Precondition Generator
-- - - [ ] More Details
-- - - - [ ] An Example Proof
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_succ_using_incr_with_xlemmas)
-- - - - [ ] Making Proof Scripts More Concise
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_succ_using_incr_with_xtactics)
-- - - [ ] Optional Material
-- - - - [ ] Tactics [xconseq] and [xframe]
-- - - - - [ ] Exercise: 1 star, standard, optional (xconseq_lemma)
-- - - - - [ ] Exercise: 2 stars, standard, optional (xframe_lemma)
+- - - - [x] Texan Triples
+- - - - - [x] Exercise: 3 stars, standard, especially useful (wp_incr)
+- - [x] Weakest Precondition Generator
+- - - [x] More Details
+- - - - [x] An Example Proof
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_succ_using_incr_with_xlemmas)
+- - - - [x] Making Proof Scripts More Concise
+- - - - - [x] Exercise: 2 stars, standard, especially useful (triple_succ_using_incr_with_xtactics)
+- - - [x] Optional Material
+- - - - [x] Tactics [xconseq] and [xframe]
+- - - - - [x] Exercise: 1 star, standard, optional (xconseq_lemma)
+- - - - - [x] Exercise: 2 stars, standard, optional (xframe_lemma)
 - - [ ] Soundness of the Weakest Precondition Generator
 - - - [ ] More Details
 - - - - [ ] Soundness of [mkstruct]
