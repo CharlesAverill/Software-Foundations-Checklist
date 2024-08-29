@@ -636,13 +636,13 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] BigStep and SmallStep
 - - - - [x] Subtyping
 - [ ] Volume 3: Verified Functional Algorithms
-- - [ ] Basic Techniques for Permutations and Ordering
-- - - [ ] Permutations
-- - - - [ ] Exercise: 2 stars (Permutation\_properties)
-- - - - [ ] Exercise: 3 stars (permut\_example)
-- - - - [ ] Exercise: 1 star (not\_a\_permutation)
-- - - [ ] Summary: Comparisons and Permutations
-- - - - [ ] Exercise: 2 stars (Forall\_perm)
+- - [x] Basic Techniques for Permutations and Ordering
+- - - [x] Permutations
+- - - - [x] Exercise: 2 stars (Permutation\_properties)
+- - - - [x] Exercise: 3 stars (permut\_example)
+- - - - [x] Exercise: 1 star (not\_a\_permutation)
+- - - [x] Summary: Comparisons and Permutations
+- - - - [x] Exercise: 2 stars (Forall\_perm)
 - - [ ] Insertion Sort
 - - - [ ] Proof of Correctness
 - - - - [ ] Exercise: 3 stars (insert\_perm)
@@ -1104,32 +1104,3 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Tactics [xconseq] and [xframe]
 - - - - - [x] Exercise: 1 star, standard, optional (xconseq_lemma)
 - - - - - [x] Exercise: 2 stars, standard, optional (xframe_lemma)
-- - [ ] Soundness of the Weakest Precondition Generator
-- - - [ ] More Details
-- - - - [ ] Soundness of [mkstruct]
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (mkstruct_idempotent)
-- - [ ] Affine Separation Logic
-- - - [ ] First Pass
-- - - - [ ] Definition of the "Affine Top" Heap Predicates
-- - - - - [ ] Exercise: 2 stars, standard, especially useful (triple_frame)
-- - - - - [ ] Exercise: 2 stars, standard, optional (hgc_inv)
-- - - - [ ] Properties of the [\GC] Predicate
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (himpl_hgc_absorb)
-- - - - [ ] Soundness of the Discard Rules
-- - - - - [ ] Exercise: 3 stars, standard, especially useful (triple_hgc_post)
-- - - - - [ ] Exercise: 1 star, standard, especially useful (triple_haffine_post)
-- - - - - [ ] Exercise: 1 star, standard, optional (triple_hgc_post_from_triple_haffine_post)
-- - - - - [ ] Exercise: 1 star, standard, optional (triple_haffine_pre)
-- - - - [ ] Combined Structural Rules
-- - - - - [ ] Exercise: 2 stars, standard, optional (triple_conseq_frame_hgc)
-- - - - - [ ] Exercise: 1 star, standard, optional (triple_ramified_frame_hgc)
-- - - [ ] More Details
-- - - - [ ] Discard Rules in WP Style
-- - - - - [ ] Exercise: 1 star, standard, optional (wp_hgc_post)
-- - - - - [ ] Exercise: 3 stars, standard, optional (wp_haffine_pre)
-- - - - - [ ] Exercise: 3 stars, standard, optional (wp_haffine_pre)
-- - - - [ ] Revised Definition of [mkstruct]
-- - - - - [ ] Exercise: 2 stars, standard, optional (mkstruct_haffine_post)
-- - - - - [ ] Exercise: 2 stars, standard, optional (mkstruct_haffine_pre)
-- - - - [ ] The Proof Tactics for Applying the Discard Rules
-- - - [ ] Optional Material
