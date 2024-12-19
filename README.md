@@ -712,16 +712,16 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 3 stars, standard, optional (selection_sort_contents)
 - - - - - [x] Exercise: 2 stars, standard, optional (sorted_iff_sorted)
 - - - - - [x] Exercise: 1 star, standard, optional (selection_sort_correct')
-- - [ ]  Merge Sort, With Specification and Proof of Correctness*)
-- - - - [ ] Split and its properties
-- - - - - [ ] Exercise: 3 stars, standard (split_perm)
-- - - - [ ] Correctness: Sortedness
-- - - - - [ ] Exercise: 2 stars, standard (sorted_merge1)
-- - - - - [ ] Exercise: 4 stars, standard (sorted_merge)
-- - - - - [ ] Exercise: 2 stars, standard (mergesort_sorts)
-- - - - [ ] Correctness: Permutation
-- - - - - [ ] Exercise: 3 stars, advanced (merge_perm)
-- - - - - [ ] Exercise: 3 stars, advanced (mergesort_perm)
+- - [x]  Merge Sort, With Specification and Proof of Correctness
+- - - - [x] Split and its properties
+- - - - - [x] Exercise: 3 stars, standard (split_perm)
+- - - - [x] Correctness: Sortedness
+- - - - - [x] Exercise: 2 stars, standard (sorted_merge1)
+- - - - - [x] Exercise: 4 stars, standard (sorted_merge)
+- - - - - [x] Exercise: 2 stars, standard (mergesort_sorts)
+- - - - [x] Correctness: Permutation
+- - - - - [x] Exercise: 3 stars, advanced (merge_perm)
+- - - - - [x] Exercise: 3 stars, advanced (mergesort_perm)
 - - [ ] Total and Partial Maps
 - - - [ ] Total Maps
 - - - - - [ ] Exercise: 1 star, standard (t_apply_empty)
