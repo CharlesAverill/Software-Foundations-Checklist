@@ -722,50 +722,50 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Correctness: Permutation
 - - - - - [x] Exercise: 3 stars, advanced (merge_perm)
 - - - - - [x] Exercise: 3 stars, advanced (mergesort_perm)
-- - [ ] Total and Partial Maps
-- - - [ ] Total Maps
-- - - - - [ ] Exercise: 1 star, standard (t_apply_empty)
-- - - - - [ ] Exercise: 1 star, standard (t_update_eq)
-- - - - - [ ] Exercise: 1 star, standard (t_update_neq)
-- - - - - [ ] Exercise: 1 star, standard (t_update_shadow)
-- - - - - [ ] Exercise: 1 star, standard (t_update_same)
-- - - - - [ ] Exercise: 1 star, standard (t_update_permute)
-- - [ ] Binary Search Trees
-- - - [ ] BST Invariant
-- - - - - [ ] Exercise: 1 star, standard (empty_tree_BST)
-- - - - - [ ] Exercise: 3 stars, standard (insert_BST)
-- - - [ ] Correctness of BST Operations
-- - - - - [ ] Exercise: 3 stars, standard, optional (bound_correct)
-- - - - - [ ] Exercise: 1 star, standard, optional (bound_default)
-- - - [ ] BSTs vs. Higher-order Functions (Optional)
-- - - - - [ ] Exercise: 2 stars, standard, optional (lookup_insert_shadow)
-- - - - - [ ] Exercise: 2 stars, standard, optional (lookup_insert_same)
-- - - - - [ ] Exercise: 2 stars, standard, optional (lookup_insert_permute)
-- - - - - [ ] Exercise: 2 stars, standard, optional (direct_equalities_break)
-- - - [ ] Converting a BST to a List
-- - - - [ ] Part 1: Same Bindings
-- - - - - [ ] Exercise: 3 stars, standard (elements_complete)
-- - - - - [ ] Exercise: 2 stars, standard (elements_preserves_forall)
-- - - - - [ ] Exercise: 2 stars, standard (elements_preserves_relation)
-- - - - - [ ] Exercise: 4 stars, standard (elements_correct)
-- - - - - [ ] Exercise: 2 stars, advanced (elements_complete_inverse)
-- - - - - [ ] Exercise: 4 stars, advanced (elements_correct_inverse)
-- - - - [ ] Part 2: Sorted (Advanced)
-- - - - - [ ] Exercise: 3 stars, advanced (sorted_app)
-- - - - - [ ] Exercise: 4 stars, advanced (sorted_elements)
-- - - - [ ] Part 3: No Duplicates (Advanced and Optional)
-- - - - - [ ] Exercise: 3 stars, advanced, optional (NoDup_append)
-- - - - - [ ] Exercise: 4 stars, advanced, optional (elements_nodup_keys)
-- - - [ ] A Faster [elements] Implementation
-- - - - - [ ] Exercise: 3 stars, standard (fast_elements_eq_elements)
-- - - [ ] An Algebraic Specification of [elements]
-- - - - - [ ] Exercise: 3 stars, standard, optional (kvs_insert_split)
-- - - - - [ ] Exercise: 3 stars, standard, optional (kvs_insert_elements)
+- - [x] Total and Partial Maps
+- - - [x] Total Maps
+- - - - - [x] Exercise: 1 star, standard (t_apply_empty)
+- - - - - [x] Exercise: 1 star, standard (t_update_eq)
+- - - - - [x] Exercise: 1 star, standard (t_update_neq)
+- - - - - [x] Exercise: 1 star, standard (t_update_shadow)
+- - - - - [x] Exercise: 1 star, standard (t_update_same)
+- - - - - [x] Exercise: 1 star, standard (t_update_permute)
+- - [x] Binary Search Trees
+- - - [x] BST Invariant
+- - - - - [x] Exercise: 1 star, standard (empty_tree_BST)
+- - - - - [x] Exercise: 3 stars, standard (insert_BST)
+- - - [x] Correctness of BST Operations
+- - - - - [x] Exercise: 3 stars, standard, optional (bound_correct)
+- - - - - [x] Exercise: 1 star, standard, optional (bound_default)
+- - - [x] BSTs vs. Higher-order Functions (Optional)
+- - - - - [x] Exercise: 2 stars, standard, optional (lookup_insert_shadow)
+- - - - - [x] Exercise: 2 stars, standard, optional (lookup_insert_same)
+- - - - - [x] Exercise: 2 stars, standard, optional (lookup_insert_permute)
+- - - - - [x] Exercise: 2 stars, standard, optional (direct_equalities_break)
+- - - [x] Converting a BST to a List
+- - - - [x] Part 1: Same Bindings
+- - - - - [x] Exercise: 3 stars, standard (elements_complete)
+- - - - - [x] Exercise: 2 stars, standard (elements_preserves_forall)
+- - - - - [x] Exercise: 2 stars, standard (elements_preserves_relation)
+- - - - - [x] Exercise: 4 stars, standard (elements_correct)
+- - - - - [x] Exercise: 2 stars, advanced (elements_complete_inverse)
+- - - - - [x] Exercise: 4 stars, advanced (elements_correct_inverse)
+- - - - [x] Part 2: Sorted (Advanced)
+- - - - - [x] Exercise: 3 stars, advanced (sorted_app)
+- - - - - [x] Exercise: 4 stars, advanced (sorted_elements)
+- - - - [x] Part 3: No Duplicates (Advanced and Optional)
+- - - - - [x] Exercise: 3 stars, advanced, optional (NoDup_append)
+- - - - - [x] Exercise: 4 stars, advanced, optional (elements_nodup_keys)
+- - - [x] A Faster [elements] Implementation
+- - - - - [x] Exercise: 3 stars, standard (fast_elements_eq_elements)
+- - - [x] An Algebraic Specification of [elements]
+- - - - - [x] Exercise: 3 stars, standard, optional (kvs_insert_split)
+- - - - - [x] Exercise: 3 stars, standard, optional (kvs_insert_elements)
 - - - [ ] Model-based Specifications
-- - - - - [ ] Exercise: 2 stars, standard, optional (in_fst)
-- - - - - [ ] Exercise: 2 stars, standard, optional (in_map_of_list)
-- - - - - [ ] Exercise: 2 stars, standard, optional (not_in_map_of_list)
-- - - - - [ ] Exercise: 3 stars, standard, optional (bound_relate)
+- - - - - [x] Exercise: 2 stars, standard, optional (in_fst)
+- - - - - [x] Exercise: 2 stars, standard, optional (in_map_of_list)
+- - - - - [x] Exercise: 2 stars, standard, optional (not_in_map_of_list)
+- - - - - [x] Exercise: 3 stars, standard, optional (bound_relate)
 - - - - - [ ] Exercise: 3 stars, standard, optional (lookup_relate)
 - - - - - [ ] Exercise: 3 stars, standard, optional (insert_relate)
 - - - [ ] An Alternative Abstraction Relation (Optional, Advanced)
