@@ -8,6 +8,16 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 
 > Please do not post solutions to the exercises in a public place.
 
+## Completed Volumes
+
+- Volume 1: Logical Foundations
+- Volume 2: Programming Language Foundations
+- Volume 6: Separation Logic Foundations
+
+## In-Progress Volumes
+
+- Volume 3: Verified Functional Algorithms
+
 ## The Checklist
 
 - [x] Volume 1: Logical Foundations
@@ -1015,7 +1025,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [ ] Exercise: 4 stars, standard (body\_incr\_list)
 - - - [ ] Proof of the `incr` function
 - - - - [ ] Exercise: 4 stars, standard (body\_incr)
-- [ ] Volume 6: Separation Logic Foundations
+- [x] Volume 6: Separation Logic Foundations
 - - [x] Basic Proofs in Separation Logic
 - - - [x] A First Taste
 - - - - [x] A Function with a Return Value
@@ -1031,7 +1041,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_get_and_free)
 - - - - [x] Nondeterminism: Specifying Random Output Values
 - - - - - [x] Exercise: 2 stars, standard, optional (triple_two_dice)
-- - - [ ] Recursive Functions
+- - - [x] Recursive Functions
 - - - - [x] A Recursive Function with State
 - - - - - [x] Exercise: 2 stars, standard, especially useful (triple_repeat_incr)
 - - - - [x] Trying to Prove Incorrect Specifications
@@ -1048,7 +1058,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 3 stars, standard, especially useful (Triple_mfree)
 - - - - [x] In-Place Reversal Function for Lists
 - - - - - [x] Exercise: 5 stars, standard, optional (triple_mrev)
-- - - [ ] More Details
+- - - [x] More Details
 - - - - [x] Sized Stack
 - - - - - [x] Exercise: 3 stars, standard, especially useful (triple_push)
 - - - - - [x] Exercise: 4 stars, standard, especially useful (triple_pop)
