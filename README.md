@@ -788,12 +788,12 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 3 stars, advanced, optional (map_of_list_app)
 - - - - - [x] Exercise: 4 stars, advanced, optional (elements_relate')
 - - [ ] Abstract Data Types
-- - - [ ] Implementing [Table] with Functions
-- - - - - [ ] Exercise: 2 stars, standard, optional (NatFunTableExamples)
-- - - [ ] Implementing [Table] with Lists
-- - - - - [ ] Exercise: 3 stars, standard (lists_table)
-- - - [ ] Tables with an [elements] Operation
-- - - - [ ] A Revised [ETable]
+- - - [x] Implementing [Table] with Functions
+- - - - - [x] Exercise: 2 stars, standard, optional (NatFunTableExamples)
+- - - [x] Implementing [Table] with Lists
+- - - - - [x] Exercise: 3 stars, standard (lists_table)
+- - - [x] Tables with an [elements] Operation
+- - - - [x] A Revised [ETable]
 - - - [ ] Encapsulation with the Coq Module System (Advanced)
 - - - - - [ ] Exercise: 4 stars, advanced, optional (elements_spec)
 - - - [ ] Model-based Specification
