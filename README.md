@@ -787,29 +787,29 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 4 stars, advanced, optional (insert_relate')
 - - - - - [x] Exercise: 3 stars, advanced, optional (map_of_list_app)
 - - - - - [x] Exercise: 4 stars, advanced, optional (elements_relate')
-- - [ ] Abstract Data Types
+- - [x] Abstract Data Types
 - - - [x] Implementing [Table] with Functions
 - - - - - [x] Exercise: 2 stars, standard, optional (NatFunTableExamples)
 - - - [x] Implementing [Table] with Lists
 - - - - - [x] Exercise: 3 stars, standard (lists_table)
 - - - [x] Tables with an [elements] Operation
 - - - - [x] A Revised [ETable]
-- - - [ ] Encapsulation with the Coq Module System (Advanced)
-- - - - - [ ] Exercise: 4 stars, advanced, optional (elements_spec)
-- - - [ ] Model-based Specification
-- - - - - [ ] Exercise: 4 stars, standard (list_etable_abs)
-- - - - - [ ] Exercise: 3 stars, standard, optional (TreeTableModel)
-- - - - - [ ] Exercise: 2 stars, advanced, optional (TreeTableModel')
-- - - [ ] Another ADT: Queue
-- - - - - [ ] Exercise: 3 stars, standard (list_queue)
-- - - - - [ ] Exercise: 3 stars, standard (two_list_queue)
-- - - [ ] Representation Invariants and Subset Types
-- - - - [ ] Example: Vectors
-- - - - - [ ] Exercise: 1 star, standard (a_vector)
-- - - - - [ ] Exercise: 2 stars, standard (vector_cons_correct)
-- - - - - [ ] Exercise: 2 stars, standard (vector_app_correct)
-- - - - [ ] Using Subset Types to Enforce the BST Invariant
-- - - - - [ ] Exercise: 4 stars, advanced (ListsETable)
+- - - [x] Encapsulation with the Coq Module System (Advanced)
+- - - - - [x] Exercise: 4 stars, advanced, optional (elements_spec)
+- - - [x] Model-based Specification
+- - - - - [x] Exercise: 4 stars, standard (list_etable_abs)
+- - - - - [x] Exercise: 3 stars, standard, optional (TreeTableModel)
+- - - - - [x] Exercise: 2 stars, advanced, optional (TreeTableModel')
+- - - [x] Another ADT: Queue
+- - - - - [x] Exercise: 3 stars, standard (list_queue)
+- - - - - [x] Exercise: 3 stars, standard (two_list_queue)
+- - - [x] Representation Invariants and Subset Types
+- - - - [x] Example: Vectors
+- - - - - [x] Exercise: 1 star, standard (a_vector)
+- - - - - [x] Exercise: 2 stars, standard (vector_cons_correct)
+- - - - - [x] Exercise: 2 stars, standard (vector_app_correct)
+- - - - [x] Using Subset Types to Enforce the BST Invariant
+- - - - - [x] Exercise: 4 stars, advanced (ListsETable)
 - - [ ] Running Coq Programs in OCaml
 - - - [ ] Insertion Sort, Extracted
 - - - - - [ ] Exercise: 3 stars, standard (sort_int_correct)
