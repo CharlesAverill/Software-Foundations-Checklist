@@ -817,23 +817,23 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 1 star, standard (lookup_insert_eq)
 - - - - - [x] Exercise: 2 stars, standard (lookup_insert_neq)
 - - - - - [x] Exercise: 4 stars, standard, optional (int_elements)
-- - [ ] Red-Black Trees
-- - - [ ] The BST Invariant
-- - - - - [ ] Exercise: 2 stars, standard (balanceP)
-- - - - - [ ] Exercise: 2 stars, standard (insP)
-- - - - - [ ] Exercise: 3 stars, standard (ins_BST)
-- - - - - [ ] Exercise: 2 stars, standard (insert_BST)
-- - - [ ] Verification
-- - - - - [ ] Exercise: 4 stars, standard (balance_lookup)
-- - - - - [ ] Exercise: 3 stars, standard (lookup_ins_eq)
-- - - - - [ ] Exercise: 3 stars, standard (lookup_ins_neq)
-- - - - - [ ] Exercise: 2 stars, standard (lookup_insert)
-- - - [ ] Efficiency
-- - - - - [ ] Exercise: 1 star, standard (RB_blacken_parent)
-- - - - - [ ] Exercise: 4 stars, standard (ins_RB)
-- - - - - [ ] Exercise: 1 star, standard (RB_blacken_root)
-- - - - - [ ] Exercise: 1 star, standard (insert_RB)
-- - - - - [ ] Exercise: 4 stars, advanced (redblack_bound)
+- - [x] Red-Black Trees
+- - - [x] The BST Invariant
+- - - - - [x] Exercise: 2 stars, standard (balanceP)
+- - - - - [x] Exercise: 2 stars, standard (insP)
+- - - - - [x] Exercise: 3 stars, standard (ins_BST)
+- - - - - [x] Exercise: 2 stars, standard (insert_BST)
+- - - [x] Verification
+- - - - - [x] Exercise: 4 stars, standard (balance_lookup)
+- - - - - [x] Exercise: 3 stars, standard (lookup_ins_eq)
+- - - - - [x] Exercise: 3 stars, standard (lookup_ins_neq)
+- - - - - [x] Exercise: 2 stars, standard (lookup_insert)
+- - - [x] Efficiency
+- - - - - [x] Exercise: 1 star, standard (RB_blacken_parent)
+- - - - - [x] Exercise: 4 stars, standard (ins_RB)
+- - - - - [x] Exercise: 1 star, standard (RB_blacken_root)
+- - - - - [x] Exercise: 1 star, standard (insert_RB)
+- - - - - [x] Exercise: 4 stars, advanced (redblack_bound)
 - - [ ]  Number Representations and Efficient Lookup Tables
 - - - [ ] Efficient Positive Numbers
 - - - - - [ ] Exercise: 2 stars, standard (succ_correct)
