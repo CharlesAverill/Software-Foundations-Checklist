@@ -810,13 +810,13 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, standard (vector_app_correct)
 - - - - [x] Using Subset Types to Enforce the BST Invariant
 - - - - - [x] Exercise: 4 stars, advanced (ListsETable)
-- - [ ] Running Coq Programs in OCaml
-- - - [ ] Insertion Sort, Extracted
-- - - - - [ ] Exercise: 3 stars, standard (sort_int_correct)
-- - - [ ] Binary Search Trees, Extracted
-- - - - - [ ] Exercise: 1 star, standard (lookup_insert_eq)
-- - - - - [ ] Exercise: 2 stars, standard (lookup_insert_neq)
-- - - - - [ ] Exercise: 4 stars, standard, optional (int_elements)
+- - [x] Running Coq Programs in OCaml
+- - - [x] Insertion Sort, Extracted
+- - - - - [x] Exercise: 3 stars, standard (sort_int_correct)
+- - - [x] Binary Search Trees, Extracted
+- - - - - [x] Exercise: 1 star, standard (lookup_insert_eq)
+- - - - - [x] Exercise: 2 stars, standard (lookup_insert_neq)
+- - - - - [x] Exercise: 4 stars, standard, optional (int_elements)
 - - [ ] Red-Black Trees
 - - - [ ] The BST Invariant
 - - - - - [ ] Exercise: 2 stars, standard (balanceP)
