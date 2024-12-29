@@ -856,14 +856,14 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, standard (lookup_relate)
 - - - - - [x] Exercise: 3 stars, standard (insert_relate)
 - - - - [x] Sanity Check
-- - [ ] Priority Queues
-- - - [ ] Implementation
-- - - - [ ] Some Preliminaries
-- - - - - [ ] Exercise: 3 stars, standard (select_perm_and_friends)
-- - - - [ ] The Program
-- - - [ ] Predicates on Priority Queues
-- - - - [ ] Characterizations of the Operations on Queues
-- - - - - [ ] Exercise: 2 stars, standard (simple_priq_proofs)
+- - [x] Priority Queues
+- - - [x] Implementation
+- - - - [x] Some Preliminaries
+- - - - - [x] Exercise: 3 stars, standard (select_perm_and_friends)
+- - - - [x] The Program
+- - - [x] Predicates on Priority Queues
+- - - - [x] Characterizations of the Operations on Queues
+- - - - - [x] Exercise: 2 stars, standard (simple_priq_proofs)
 - - [ ] Binomial Queues
 - - - [ ] Proof of Algorithm Correctness
 - - - - [ ] Various Functions Preserve the Representation Invariant
