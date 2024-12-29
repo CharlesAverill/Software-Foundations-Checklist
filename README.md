@@ -865,22 +865,22 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Characterizations of the Operations on Queues
 - - - - - [x] Exercise: 2 stars, standard (simple_priq_proofs)
 - - [ ] Binomial Queues
-- - - [ ] Proof of Algorithm Correctness
+- - - [x] Proof of Algorithm Correctness
 - - - - [ ] Various Functions Preserve the Representation Invariant
-- - - - - [ ] Exercise: 1 star, standard (empty_priq) 
-- - - - - [ ] Exercise: 2 stars, standard (smash_valid)
-- - - - - [ ] Exercise: 3 stars, standard (carry_valid)
-- - - - - [ ] Exercise: 2 stars, standard, optional (insert_valid)
-- - - - - [ ] Exercise: 3 stars, standard, optional (join_valid)
+- - - - - [x] Exercise: 1 star, standard (empty_priq) 
+- - - - - [x] Exercise: 2 stars, standard (smash_valid)
+- - - - - [x] Exercise: 3 stars, standard (carry_valid)
+- - - - - [x] Exercise: 2 stars, standard, optional (insert_valid)
+- - - - - [x] Exercise: 3 stars, standard, optional (join_valid)
 - - - - - [ ] Exercise: 5 stars, standard, optional (delete_max_Some_priq)
 - - - - [ ] The Abstraction Relation
 - - - - - [ ] Exercise: 3 stars, standard (priqueue_elems)
 - - - - [ ] Sanity Checks on the Abstraction Relation
-- - - - - [ ] Exercise: 2 stars, standard (tree_elems_ext)
-- - - - - [ ] Exercise: 2 stars, standard (tree_perm)
+- - - - - [x] Exercise: 2 stars, standard (tree_elems_ext)
+- - - - - [x] Exercise: 2 stars, standard (tree_perm)
 - - - - - [ ] Exercise: 2 stars, standard (priqueue_elems_ext)
 - - - - - [ ] Exercise: 2 stars, standard (abs_perm)
-- - - - - [ ] Exercise: 2 stars, standard (can_relate)
+- - - - - [x] Exercise: 2 stars, standard (can_relate)
 - - - - [ ] Various Functions Preserve the Abstraction Relation
 - - - - - [ ] Exercise: 1 star, standard (empty_relate)
 - - - - - [ ] Exercise: 3 stars, standard (smash_elems)
@@ -893,12 +893,12 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [ ] Exercise: 5 stars, standard, optional (delete_max_Some_relate)
 - - - [ ] Measurement.
 - - - - - [ ] Exercise: 5 stars, standard, optional (binom_measurement)
-- - [ ] Programming with Decision Procedures
-- - - [ ] Using [sumbool] to Characterize Decision Procedures
-- - - - [ ] [sumbool] in the Coq Standard Library
-- - - - - [ ] Exercise: 2 stars, standard (insert_sorted_le_dec)
-- - - [ ] Opacity of [Qed]
-- - - - - [ ] Exercise: 2 stars, standard (list_nat_in)
+- - [x] Programming with Decision Procedures
+- - - [x] Using [sumbool] to Characterize Decision Procedures
+- - - - [x] [sumbool] in the Coq Standard Library
+- - - - - [x] Exercise: 2 stars, standard (insert_sorted_le_dec)
+- - - [x] Opacity of [Qed]
+- - - - - [x] Exercise: 2 stars, standard (list_nat_in)
 - - [ ] Graph Coloring
 - - - [ ] Lemmas About Sets and Maps
 - - - - [ ] S.remove and S.elements
