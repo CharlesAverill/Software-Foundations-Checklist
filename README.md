@@ -834,28 +834,28 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 1 star, standard (RB_blacken_root)
 - - - - - [x] Exercise: 1 star, standard (insert_RB)
 - - - - - [x] Exercise: 4 stars, advanced (redblack_bound)
-- - [ ]  Number Representations and Efficient Lookup Tables
-- - - [ ] Efficient Positive Numbers
-- - - - - [ ] Exercise: 2 stars, standard (succ_correct)
-- - - - - [ ] Exercise: 3 stars, standard (addc_correct)
-- - - - - [ ] Exercise: 5 stars, standard (compare_correct)
-- - - - [ ] From [N*N*logN] to [N*logN*logN]
-- - - [ ] Tries: Efficient Lookup Tables on Positive Binary Numbers
-- - - - [ ] From [N*logN*logN] to [N*logN]
-- - - - - [ ] Exercise: 2 stars, standard (successor_of_Z_constant_time)
-- - - [ ] Proving the Correctness of Trie Tables
-- - - - [ ] Lemmas About the Relation Between [lookup] and [insert]
-- - - - - [ ] Exercise: 1 star, standard (look_leaf)
-- - - - - [ ] Exercise: 2 stars, standard (look_ins_same)
-- - - - - [ ] Exercise: 3 stars, standard (look_ins_same)
-- - - - [ ] Bijection Between [positive] and [nat].
-- - - - - [ ] Exercise: 2 stars, standard (pos2nat_bijective)
-- - - - [ ] Proving That Tries are a "Table" ADT.
-- - - - - [ ] Exercise: 2 stars, standard (is_trie)
-- - - - - [ ] Exercise: 2 stars, standard (empty_relate)
-- - - - - [ ] Exercise: 2 stars, standard (lookup_relate)
-- - - - - [ ] Exercise: 3 stars, standard (insert_relate)
-- - - - [ ] Sanity Check
+- - [x]  Number Representations and Efficient Lookup Tables
+- - - [x] Efficient Positive Numbers
+- - - - - [x] Exercise: 2 stars, standard (succ_correct)
+- - - - - [x] Exercise: 3 stars, standard (addc_correct)
+- - - - - [x] Exercise: 5 stars, standard (compare_correct)
+- - - - [x] From [N*N*logN] to [N*logN*logN]
+- - - [x] Tries: Efficient Lookup Tables on Positive Binary Numbers
+- - - - [x] From [N*logN*logN] to [N*logN]
+- - - - - [x] Exercise: 2 stars, standard (successor_of_Z_constant_time)
+- - - [x] Proving the Correctness of Trie Tables
+- - - - [x] Lemmas About the Relation Between [lookup] and [insert]
+- - - - - [x] Exercise: 1 star, standard (look_leaf)
+- - - - - [x] Exercise: 2 stars, standard (look_ins_same)
+- - - - - [x] Exercise: 3 stars, standard (look_ins_same)
+- - - - [x] Bijection Between [positive] and [nat].
+- - - - - [x] Exercise: 2 stars, standard (pos2nat_bijective)
+- - - - [x] Proving That Tries are a "Table" ADT.
+- - - - - [x] Exercise: 2 stars, standard (is_trie)
+- - - - - [x] Exercise: 2 stars, standard (empty_relate)
+- - - - - [x] Exercise: 2 stars, standard (lookup_relate)
+- - - - - [x] Exercise: 3 stars, standard (insert_relate)
+- - - - [x] Sanity Check
 - - [ ] Priority Queues
 - - - [ ] Implementation
 - - - - [ ] Some Preliminaries
