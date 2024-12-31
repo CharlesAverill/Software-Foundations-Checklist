@@ -12,11 +12,13 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 
 - Volume 1: Logical Foundations
 - Volume 2: Programming Language Foundations
+- Volume 3: Verified Functional Algorithms
+    - Note: the incomplete proofs `delete_max_Some_priq`, `delete_max_None_relate`, and `delete_max_Some_relate` are also [unsolved by the volume's author, Andrew Appel](https://sympa.inria.fr/sympa/arc/coq-club/2016-08/msg00201.html)
 - Volume 6: Separation Logic Foundations
 
 ## In-Progress Volumes
 
-- Volume 3: Verified Functional Algorithms
+Check back later!
 
 ## The Checklist
 
@@ -609,22 +611,22 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Properties
 - - - - [x] Well-Typed Stores
 - - - - - [x] Exercise: 2 stars, standard (store\_not\_unique)
-- - - - [ ] Preservation!
-- - - - - [ ] Exercise: 3 stars, standard (preservation\_informal)
+- - - - [x] Preservation!
+- - - - - [x] Exercise: 3 stars, standard (preservation\_informal)
 - - - [x] References and Nontermination
 - - - - [x] Exercise: 4 stars, standard (factorial\_ref)
 - - - [ ] Additional Exercises
 - - - - [ ] Exercise: 5 stars, standard, optional (garbage\_collector)
-- - [ ] Subtyping with Records
-- - - [ ] Subtyping
+- - [x] Subtyping with Records
+- - - [x] Subtyping
 - - - - [x] Examples
 - - - - - [x] Exercise: 2 stars, standard (subtyping\_example\_1)
 - - - - - [x] Exercise: 1 star, standard (subtyping\_example\_2)
 - - - - - [x] Exercise: 1 star, standard (subtyping\_example\_3)
 - - - - - [x] Exercise: 2 stars, standard (subtyping\_example\_4)
-- - - - [ ] Properties of Subtyping
-- - - - - [ ] Field Lookup
-- - - - - - [ ] Exercise: 3 stars, standard (rcd\_types\_match\_informal)
+- - - - [x] Properties of Subtyping
+- - - - - [x] Field Lookup
+- - - - - - [x] Exercise: 3 stars, standard (rcd\_types\_match\_informal)
 - - - - - [x] Inversion Lemmas
 - - - - - - [x] Exercise: 3 stars, standard, optional (sub\_inversion\_arrow)
 - - - [x] Typing
@@ -645,7 +647,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Progress for STLC
 - - - - [x] BigStep and SmallStep
 - - - - [x] Subtyping
-- [ ] Volume 3: Verified Functional Algorithms
+- [x] Volume 3: Verified Functional Algorithms
 - - [x] Basic Techniques for Comparisons and Permutations
 - - - [x] Permutations
 - - - - - [x] Exercise: 2 stars, standard (Permutation_properties)
@@ -864,64 +866,64 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Predicates on Priority Queues
 - - - - [x] Characterizations of the Operations on Queues
 - - - - - [x] Exercise: 2 stars, standard (simple_priq_proofs)
-- - [ ] Binomial Queues
+- - [x] Binomial Queues
 - - - [x] Proof of Algorithm Correctness
-- - - - [ ] Various Functions Preserve the Representation Invariant
+- - - - [x] Various Functions Preserve the Representation Invariant
 - - - - - [x] Exercise: 1 star, standard (empty_priq) 
 - - - - - [x] Exercise: 2 stars, standard (smash_valid)
 - - - - - [x] Exercise: 3 stars, standard (carry_valid)
 - - - - - [x] Exercise: 2 stars, standard, optional (insert_valid)
 - - - - - [x] Exercise: 3 stars, standard, optional (join_valid)
 - - - - - [ ] Exercise: 5 stars, standard, optional (delete_max_Some_priq)
-- - - - [ ] The Abstraction Relation
-- - - - - [ ] Exercise: 3 stars, standard (priqueue_elems)
-- - - - [ ] Sanity Checks on the Abstraction Relation
+- - - - [x] The Abstraction Relation
+- - - - - [x] Exercise: 3 stars, standard (priqueue_elems)
+- - - - [x] Sanity Checks on the Abstraction Relation
 - - - - - [x] Exercise: 2 stars, standard (tree_elems_ext)
 - - - - - [x] Exercise: 2 stars, standard (tree_perm)
-- - - - - [ ] Exercise: 2 stars, standard (priqueue_elems_ext)
-- - - - - [ ] Exercise: 2 stars, standard (abs_perm)
+- - - - - [x] Exercise: 2 stars, standard (priqueue_elems_ext)
+- - - - - [x] Exercise: 2 stars, standard (abs_perm)
 - - - - - [x] Exercise: 2 stars, standard (can_relate)
-- - - - [ ] Various Functions Preserve the Abstraction Relation
-- - - - - [ ] Exercise: 1 star, standard (empty_relate)
-- - - - - [ ] Exercise: 3 stars, standard (smash_elems)
-- - - - [ ] Optional Exercises
-- - - - - [ ] Exercise: 4 stars, standard, optional (carry_elems)
-- - - - - [ ] Exercise: 2 stars, standard, optional (insert_elems)
-- - - - - [ ] Exercise: 4 stars, standard, optional (join_elems)
-- - - - - [ ] Exercise: 2 stars, standard, optional (merge_relate)
+- - - - [x] Various Functions Preserve the Abstraction Relation
+- - - - - [x] Exercise: 1 star, standard (empty_relate)
+- - - - - [x] Exercise: 3 stars, standard (smash_elems)
+- - - - [x] Optional Exercises
+- - - - - [x] Exercise: 4 stars, standard, optional (carry_elems)
+- - - - - [x] Exercise: 2 stars, standard, optional (insert_elems)
+- - - - - [x] Exercise: 4 stars, standard, optional (join_elems)
+- - - - - [x] Exercise: 2 stars, standard, optional (merge_relate)
 - - - - - [ ] Exercise: 5 stars, standard, optional (delete_max_None_relate)
 - - - - - [ ] Exercise: 5 stars, standard, optional (delete_max_Some_relate)
-- - - [ ] Measurement.
-- - - - - [ ] Exercise: 5 stars, standard, optional (binom_measurement)
+- - - [x] Measurement.
+- - - - - [x] Exercise: 5 stars, standard, optional (binom_measurement)
 - - [x] Programming with Decision Procedures
 - - - [x] Using [sumbool] to Characterize Decision Procedures
 - - - - [x] [sumbool] in the Coq Standard Library
 - - - - - [x] Exercise: 2 stars, standard (insert_sorted_le_dec)
 - - - [x] Opacity of [Qed]
 - - - - - [x] Exercise: 2 stars, standard (list_nat_in)
-- - [ ] Graph Coloring
-- - - [ ] Lemmas About Sets and Maps
-- - - - [ ] S.remove and S.elements
-- - - - - [ ] Exercise: 3 stars, standard (Sremove_elements)
-- - - - [ ] Lists of (key,value) Pairs
-- - - - - [ ] Exercise: 2 stars, standard (InA_map_fst_key)
-- - - - - [ ] Exercise: 3 stars, standard (Sorted_lt_key)
-- - - - [ ] Cardinality
-- - - - - [ ] Exercise: 4 stars, standard (cardinal_map)
-- - - - - [ ] Exercise: 4 stars, standard (Sremove_cardinal_less)
-- - - - - [ ] Exercise: 4 stars, standard (Mremove_elements)
-- - - - - [ ] Exercise: 3 stars, standard (Mremove_cardinal_less)
-- - - - - [ ] Exercise: 2 stars, standard (two_little_lemmas)
-- - - - - [ ] Exercise: 3 stars, standard (Sin_domain)
-- - - [ ] Now Begins the Graph Coloring Program
-- - - - [ ] Some Proofs in Support of Termination
-- - - - - [ ] Exercise: 3 stars, standard (subset_nodes_sub)
-- - - - - [ ] Exercise: 3 stars, standard (select_terminates)
-- - - - [ ] The Rest of the Algorithm
-- - - [ ] Proof of Correctness of the Algorithm.
-- - - - - [ ] Exercise: 2 stars, standard (adj_ext)
-- - - - - [ ] Exercise: 3 stars, standard (in_colors_of_1)
-- - - - - [ ] Exercise: 4 stars, standard (color_correct)
+- - [x] Graph Coloring
+- - - [x] Lemmas About Sets and Maps
+- - - - [x] S.remove and S.elements
+- - - - - [x] Exercise: 3 stars, standard (Sremove_elements)
+- - - - [x] Lists of (key,value) Pairs
+- - - - - [x] Exercise: 2 stars, standard (InA_map_fst_key)
+- - - - - [x] Exercise: 3 stars, standard (Sorted_lt_key)
+- - - - [x] Cardinality
+- - - - - [x] Exercise: 4 stars, standard (cardinal_map)
+- - - - - [x] Exercise: 4 stars, standard (Sremove_cardinal_less)
+- - - - - [x] Exercise: 4 stars, standard (Mremove_elements)
+- - - - - [x] Exercise: 3 stars, standard (Mremove_cardinal_less)
+- - - - - [x] Exercise: 2 stars, standard (two_little_lemmas)
+- - - - - [x] Exercise: 3 stars, standard (Sin_domain)
+- - - [x] Now Begins the Graph Coloring Program
+- - - - [x] Some Proofs in Support of Termination
+- - - - - [x] Exercise: 3 stars, standard (subset_nodes_sub)
+- - - - - [x] Exercise: 3 stars, standard (select_terminates)
+- - - - [x] The Rest of the Algorithm
+- - - [x] Proof of Correctness of the Algorithm.
+- - - - - [x] Exercise: 2 stars, standard (adj_ext)
+- - - - - [x] Exercise: 3 stars, standard (in_colors_of_1)
+- - - - - [x] Exercise: 4 stars, standard (color_correct)
 - [ ] Volume 4: QuickChick: Property-Based Testing in Coq
 - [ ] Volume 5: Verifiable C
 - - [ ] Introduction to Verifiable C
