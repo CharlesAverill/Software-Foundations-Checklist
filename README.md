@@ -926,17 +926,17 @@ Check back later!
 - - - - - [x] Exercise: 4 stars, standard (color_correct)
 - [ ] Volume 4: QuickChick: Property-Based Testing in Coq
 - [ ] Volume 5: Verifiable C
-- - [ ] Introduction to Verifiable C
-- - [ ] Linked lists in Verifiable C
-- - [ ] Stack ADT implemented by linked lists
-- - - [ ] Specification of linked lists
-- - - - [ ] Exercise: 1 star, standard (stack\_listrep\_properties)
-- - - [ ] Specification of stack data structure
-- - - - [ ] Exercise: 1 star, standard (stack\_properties)
-- - - [ ] Proofs of the function bodies
-- - - - [ ] Exercise: 2 stars, standard (body\_pop)
-- - - - [ ] Exercise: 2 stars, standard (body\_push)
-- - - - [ ] Exercise: 2 stars, standard (body\_newstack)
+- - [x] Introduction to Verifiable C
+- - [x] Linked lists in Verifiable C
+- - [x] Stack ADT implemented by linked lists
+- - - [x] Specification of linked lists
+- - - - [x] Exercise: 1 star, standard (stack\_listrep\_properties)
+- - - [x] Specification of stack data structure
+- - - - [x] Exercise: 1 star, standard (stack\_properties)
+- - - [x] Proofs of the function bodies
+- - - - [x] Exercise: 2 stars, standard (body\_pop)
+- - - - [x] Exercise: 2 stars, standard (body\_push)
+- - - - [x] Exercise: 2 stars, standard (body\_newstack)
 - - [ ] A client of the stack functions
 - - - [ ] Proofs with integers
 - - - - [ ] Exercise: 2 stars, standard (Zinduction)
