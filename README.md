@@ -18,7 +18,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 
 ## In-Progress Volumes
 
-Check back later!
+Volume 5: Verifiable C
 
 ## The Checklist
 
@@ -938,12 +938,12 @@ Check back later!
 - - - - [x] Exercise: 2 stars, standard (body\_push)
 - - - - [x] Exercise: 2 stars, standard (body\_newstack)
 - - [ ] A client of the stack functions
-- - - [ ] Proofs with integers
-- - - - [ ] Exercise: 2 stars, standard (Zinduction)
-- - - - [ ] A theorem about the nth triangular number
-- - - - - [ ] Exercise: 2 stars, standard (add\_list\_decreasing)
+- - - [x] Proofs with integers
+- - - - [x] Exercise: 2 stars, standard (Zinduction)
+- - - - [x] A theorem about the nth triangular number
+- - - - - [x] Exercise: 2 stars, standard (add\_list\_decreasing)
 - - - [ ] Proofs of the stack-client function-bodies
-- - - - [ ] Exercise: 3 stars, standard (body\_push\_increasing)
+- - - - [x] Exercise: 3 stars, standard (body\_push\_increasing)
 - - - - [ ] Exercise: 2 stars, standard (add\_list\_lemmas)
 - - - - [ ] Exercise: 2 stars, standard (add\_list\_sublist\_bounds)
 - - - - [ ] Exercise: 3 stars, standard (add\_another)
