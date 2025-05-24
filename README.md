@@ -937,18 +937,18 @@ Volume 5: Verifiable C
 - - - - [x] Exercise: 2 stars, standard (body\_pop)
 - - - - [x] Exercise: 2 stars, standard (body\_push)
 - - - - [x] Exercise: 2 stars, standard (body\_newstack)
-- - [ ] A client of the stack functions
+- - [x] A client of the stack functions
 - - - [x] Proofs with integers
 - - - - [x] Exercise: 2 stars, standard (Zinduction)
 - - - - [x] A theorem about the nth triangular number
 - - - - - [x] Exercise: 2 stars, standard (add\_list\_decreasing)
-- - - [ ] Proofs of the stack-client function-bodies
+- - - [x] Proofs of the stack-client function-bodies
 - - - - [x] Exercise: 3 stars, standard (body\_push\_increasing)
-- - - - [ ] Exercise: 2 stars, standard (add\_list\_lemmas)
-- - - - [ ] Exercise: 2 stars, standard (add\_list\_sublist\_bounds)
-- - - - [ ] Exercise: 3 stars, standard (add\_another)
-- - - - [ ] Exercise: 3 stars, standard (body\_pop\_and\_add)
-- - - - [ ] Exercise: 3 stars, standard (body\_main)
+- - - - [x] Exercise: 2 stars, standard (add\_list\_lemmas)
+- - - - [x] Exercise: 2 stars, standard (add\_list\_sublist\_bounds)
+- - - - [x] Exercise: 3 stars, standard (add\_another)
+- - - - [x] Exercise: 3 stars, standard (body\_pop\_and\_add)
+- - - - [x] Exercise: 3 stars, standard (body\_main)
 - - [ ] List segments
 - - - [ ] List segments.
 - - - - [ ] Exercise: 1 star, standard (singleton\_lseg)
