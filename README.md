@@ -983,16 +983,16 @@ Volume 5: Verifiable C
 - - - - [x] Exercise: 1 star, standard: (emp\_lbseg)
 - - - - [x] Exercise: 2 stars, standard: (lbseg\_lbseg)
 - - - - [x] Exercise: 2 stars, standard: (listbox\_lbseg)
-- - [ ] String functions
-- - - [ ] Proof of the `strlen` function
-- - - - [ ] Exercise: 2 stars, standard (body\_strlen)
-- - - [ ] Proof of the `strcpy` function
-- - - - [ ] Exercise: 2 stars, standard (strcpy\_then\_clause)
-- - - - [ ] Exercise: 2 stars, standard (strcpy\_else\_clause)
-- - - - [ ] data\_at is not injective!
-- - - - - [ ] Exercise: 3 stars, standard (body\_strcpy)
-- - - - - [ ] Exercise: 3 stars, standard (example\_call\_strcpy)
-- - - - - [ ] Exercise: 4 stars, standard, optional (body\_strcmp)
+- - [x] String functions
+- - - [x] Proof of the `strlen` function
+- - - - [x] Exercise: 2 stars, standard (body\_strlen)
+- - - [x] Proof of the `strcpy` function
+- - - - [x] Exercise: 2 stars, standard (strcpy\_then\_clause)
+- - - - [x] Exercise: 2 stars, standard (strcpy\_else\_clause)
+- - - - [x] data\_at is not injective!
+- - - - - [x] Exercise: 3 stars, standard (body\_strcpy)
+- - - - - [x] Exercise: 3 stars, standard (example\_call\_strcpy)
+- - - - - [x] Exercise: 4 stars, standard, optional (body\_strcmp)
 - - [ ] Functional model of hash tables
 - - - [ ] A functional model
 - - - - [ ] Exercise: 2 stars, standard (hashfun\_inrange)
