@@ -949,40 +949,40 @@ Volume 5: Verifiable C
 - - - - [x] Exercise: 3 stars, standard (add\_another)
 - - - - [x] Exercise: 3 stars, standard (body\_pop\_and\_add)
 - - - - [x] Exercise: 3 stars, standard (body\_main)
-- - [ ] List segments
-- - - [ ] List segments.
-- - - - [ ] Exercise: 1 star, standard (singleton\_lseg)
-- - - - [ ] Exercise: 1 star, standard (lseg\_lseg)
-- - - - [ ] Exercise: 1 star, standard (lseg\_list)
-- - - [ ] Proof of the `append` function
-- - - - [ ] Exercise: 1 star, standard (listrep\_null)
-- - - - [ ] Exercise: 1 star, standard (listrep\_nonnull)
-- - - - [ ] Exercise: 3 stars, standard (body\_append)
-- - - [ ] Additional exercises: more proofs about list segments
-- - - - [ ] Exercise: 1 star, standard: (lseg2listrep)
-- - - - [ ] Exercise: 1 star, standard: (listrep2lseg)
-- - - - [ ] Exercise: 2 stars, standard: (lseg\_lseg\_inv)
-- - - - [ ] Exercise: 2 stars, standard: (loopy\_lseg\_no\_connection)
-- - - [ ] Additional exercises: loop-free list segments
-- - - - [ ] Exercise: 2 stars, standard, optional (nt\_lseg)
-- - - - [ ] Exercise: 2 stars, standard, optional (singleton\_nt\_lseg')
-- - - - [ ] Exercise: 2 stars, standard, optional (nt\_lseg\_nt\_lseg)
-- - - - [ ] Exercise: 2 stars, standard, optional (nt\_lseg\_list)
-- - - - [ ] Exercise: 3 stars, standard, optional (body\_append\_alter1)
-- - [ ] Magic wand, partial data structure
-- - - [ ] Separating Implication
-- - - - [ ] Exercise: 2 stars, standard: (wand\_derives)
-- - - - [ ] Exercise: 2 stars, standard: (wand\_frame\_ver)
-- - - - [ ] Exercise: 3 stars, standard: (emp\_wand\_emp)
-- - - [ ] List segments by magic wand
-- - - - [ ] Exercise: 2 stars, standard: (singleton\_wlseg)
-- - - - [ ] Exercise: 2 stars, standard: (wlseg\_list)
-- - - [ ] Proof of the `append` function by `wlseg`
-- - - - [ ] Exercise: 3 stars, standard: (body\_append\_alter2)
-- - - [ ] Case study: list segments for linked list box
-- - - - [ ] Exercise: 1 star, standard: (emp\_lbseg)
-- - - - [ ] Exercise: 2 stars, standard: (lbseg\_lbseg)
-- - - - [ ] Exercise: 2 stars, standard: (listbox\_lbseg)
+- - [x] List segments
+- - - [x] List segments.
+- - - - [x] Exercise: 1 star, standard (singleton\_lseg)
+- - - - [x] Exercise: 1 star, standard (lseg\_lseg)
+- - - - [x] Exercise: 1 star, standard (lseg\_list)
+- - - [x] Proof of the `append` function
+- - - - [x] Exercise: 1 star, standard (listrep\_null)
+- - - - [x] Exercise: 1 star, standard (listrep\_nonnull)
+- - - - [x] Exercise: 3 stars, standard (body\_append)
+- - - [x] Additional exercises: more proofs about list segments
+- - - - [x] Exercise: 1 star, standard: (lseg2listrep)
+- - - - [x] Exercise: 1 star, standard: (listrep2lseg)
+- - - - [x] Exercise: 2 stars, standard: (lseg\_lseg\_inv)
+- - - - [x] Exercise: 2 stars, standard: (loopy\_lseg\_no\_connection)
+- - - [x] Additional exercises: loop-free list segments
+- - - - [x] Exercise: 2 stars, standard, optional (nt\_lseg)
+- - - - [x] Exercise: 2 stars, standard, optional (singleton\_nt\_lseg')
+- - - - [x] Exercise: 2 stars, standard, optional (nt\_lseg\_nt\_lseg)
+- - - - [x] Exercise: 2 stars, standard, optional (nt\_lseg\_list)
+- - - - [x] Exercise: 3 stars, standard, optional (body\_append\_alter1)
+- - [x] Magic wand, partial data structure
+- - - [x] Separating Implication
+- - - - [x] Exercise: 2 stars, standard: (wand\_derives)
+- - - - [x] Exercise: 2 stars, standard: (wand\_frame\_ver)
+- - - - [x] Exercise: 3 stars, standard: (emp\_wand\_emp)
+- - - [x] List segments by magic wand
+- - - - [x] Exercise: 2 stars, standard: (singleton\_wlseg)
+- - - - [x] Exercise: 2 stars, standard: (wlseg\_list)
+- - - [x] Proof of the `append` function by `wlseg`
+- - - - [x] Exercise: 3 stars, standard: (body\_append\_alter2)
+- - - [x] Case study: list segments for linked list box
+- - - - [x] Exercise: 1 star, standard: (emp\_lbseg)
+- - - - [x] Exercise: 2 stars, standard: (lbseg\_lbseg)
+- - - - [x] Exercise: 2 stars, standard: (listbox\_lbseg)
 - - [ ] String functions
 - - - [ ] Proof of the `strlen` function
 - - - - [ ] Exercise: 2 stars, standard (body\_strlen)
